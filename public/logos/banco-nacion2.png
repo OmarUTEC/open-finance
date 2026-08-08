@@ -1,0 +1,101 @@
+<HTML>
+	<HEAD>
+<base href="/" />
+<script type="text/javascript">
+  var _event_transid='3128521672';
+</script>
+
+		<TITLE>Actividad no autorizada bloqueada</TITLE>
+		<META HTTP-EQUIV="Content-Type" Content="text/html; charset=Windows-1252">
+		<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
+		<meta http-equiv="Pragma" content="no-cache" />
+		<meta http-equiv="Expires" content="0" />
+	</HEAD>
+<BODY>
+<BR>
+<TABLE width="48%" align=center cellpadding="0" border="0">
+    <TR>
+	<td>
+	<b class="entidad">Banco de la Nación</b><br>
+	<i class="eslogan">&nbsp;&nbsp;el banco de todos</i>
+	</td>
+		<TD valign="middle" class="titulo">		
+			<H1>Actividad no autorizada ha sido detectada</H1><br>
+		<DIV class="divider"></DIV>
+		</TD>
+	</TR>
+		<TD align=justify class="" colspan=2>
+		
+			<H3><p>
+				<br>Estimado Usuario, está viendo esta página porque hemos detectado una actividad no autorizada. </p>
+				<P>
+				Si cree que es un error, 
+				por favor, envíe un correo electrónico a <script language="javascript"> if (window._event_transid !== undefined) document.write('<a href="mailto:soportewaf@bn.com.pe?Subject=Actividad no autorizada - Número de caso ' + window._event_transid + '&body=Descripción del caso:">soportewaf@bn.com.pe</a>');
+				else document.write('<a href="mailto:soportewaf@bn.com.pe?Subject=Actividad no autorizada - Número de caso N/A&body=Descripción del caso:">soportewaf@bn.com.pe</a>'); </script> 
+				con el número de caso en su asunto.
+				</P>
+				<p></p>
+				<table border="0">
+					<tr>
+						<td><b>Número de caso:</b></td>
+						<td><b><script language="javascript">if (window._event_transid !== undefined) document.write(window._event_transid);
+						else document.write('N/A');</script></b></td>
+					</tr>
+				</table>
+				</p>
+			</H3><BR>
+		</TD>
+	</TR>
+</TABLE>
+</BODY>
+<STYLE>
+	body
+	{
+		font-family: "Segoe UI", "verdana" , "Arial";
+		background-repeat: repeat-x;
+		margin-top: 20px;
+		margin-left: 20px;
+	}
+	h1
+	{
+		font-size: 20px;
+		font-weight: bold;
+		vertical-align:bottom;
+		margin-top: 7px;
+		margin-bottom: 4px;
+		text-align:center;	
+	}
+h3
+	{
+		font-size: 0.9em;
+		font-weight: normal;
+		margin-top: 10px;
+		margin-bottom: 1px;
+	}
+.divider
+	{
+		border-bottom: #B6BCC6 2px solid;
+	}
+.entidad
+	{
+		color:#E32120;
+		text-align:center;
+	}
+.eslogan
+	{
+		color:#656563;
+		text-align:center;
+		font-style: italic;
+	}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+}
+td.parrafo {
+  background-color: #C8D7EA;
+}
+
+</STYLE>
+</HTML>

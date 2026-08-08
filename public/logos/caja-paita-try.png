@@ -1,0 +1,1874 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="profile" href="http://gmpg.org/xfn/11">
+    <link rel="pingback" href="">
+    <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+	<!-- This site is optimized with the Yoast SEO plugin v19.10 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Principal - Caja Paita</title>
+	<meta name="description" content="Caja Paita" />
+	<link rel="canonical" href="https://www.cajapaita.pe/" />
+	<meta property="og:locale" content="es_ES" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="Principal - Caja Paita" />
+	<meta property="og:description" content="Caja Paita" />
+	<meta property="og:url" content="https://www.cajapaita.pe/" />
+	<meta property="og:site_name" content="Caja Paita" />
+	<meta property="article:publisher" content="https://www.facebook.com/cajapaita" />
+	<meta property="article:modified_time" content="2026-06-05T23:59:29+00:00" />
+	<meta property="og:image" content="https://www.cajapaita.pe/wp-content/uploads/2026/06/fondo-de-seguro-de-depositos.jpg.jpeg" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:label1" content="Tiempo de lectura" />
+	<meta name="twitter:data1" content="3 minutos" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://www.cajapaita.pe/","url":"https://www.cajapaita.pe/","name":"Principal - Caja Paita","isPartOf":{"@id":"https://www.cajapaita.pe/#website"},"primaryImageOfPage":{"@id":"https://www.cajapaita.pe/#primaryimage"},"image":{"@id":"https://www.cajapaita.pe/#primaryimage"},"thumbnailUrl":"https://www.cajapaita.pe/wp-content/uploads/2026/06/fondo-de-seguro-de-depositos.jpg.jpeg","datePublished":"2016-03-01T07:57:29+00:00","dateModified":"2026-06-05T23:59:29+00:00","description":"Caja Paita","breadcrumb":{"@id":"https://www.cajapaita.pe/#breadcrumb"},"inLanguage":"es","potentialAction":[{"@type":"ReadAction","target":["https://www.cajapaita.pe/"]}]},{"@type":"ImageObject","inLanguage":"es","@id":"https://www.cajapaita.pe/#primaryimage","url":"https://www.cajapaita.pe/wp-content/uploads/2026/06/fondo-de-seguro-de-depositos.jpg.jpeg","contentUrl":"https://www.cajapaita.pe/wp-content/uploads/2026/06/fondo-de-seguro-de-depositos.jpg.jpeg","width":1500,"height":1368},{"@type":"BreadcrumbList","@id":"https://www.cajapaita.pe/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Portada"}]},{"@type":"WebSite","@id":"https://www.cajapaita.pe/#website","url":"https://www.cajapaita.pe/","name":"Caja Paita","description":"CMAC PAITA","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.cajapaita.pe/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"es"}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//www.cajapaita.pe' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link href='https://fonts.gstatic.com' crossorigin rel='preconnect' />
+<link rel="alternate" type="application/rss+xml" title="Caja Paita &raquo; Feed" href="https://www.cajapaita.pe/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Caja Paita &raquo; Feed de los comentarios" href="https://www.cajapaita.pe/comments/feed/" />
+<script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.cajapaita.pe\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.0.2"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode,e=(p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0),i.toDataURL());return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([129777,127995,8205,129778,127999],[129777,127995,8203,129778,127999])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(e=t.source||{}).concatemoji?c(e.concatemoji):e.wpemoji&&e.twemoji&&(c(e.twemoji),c(e.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://www.cajapaita.pe/wp-includes/css/dist/block-library/style.min.css?ver=6.0.2' type='text/css' media='all' />
+<style id='wp-block-library-theme-inline-css' type='text/css'>
+.wp-block-audio figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-audio figcaption{color:hsla(0,0%,100%,.65)}.wp-block-code{border:1px solid #ccc;border-radius:4px;font-family:Menlo,Consolas,monaco,monospace;padding:.8em 1em}.wp-block-embed figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-embed figcaption{color:hsla(0,0%,100%,.65)}.blocks-gallery-caption{color:#555;font-size:13px;text-align:center}.is-dark-theme .blocks-gallery-caption{color:hsla(0,0%,100%,.65)}.wp-block-image figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-image figcaption{color:hsla(0,0%,100%,.65)}.wp-block-pullquote{border-top:4px solid;border-bottom:4px solid;margin-bottom:1.75em;color:currentColor}.wp-block-pullquote__citation,.wp-block-pullquote cite,.wp-block-pullquote footer{color:currentColor;text-transform:uppercase;font-size:.8125em;font-style:normal}.wp-block-quote{border-left:.25em solid;margin:0 0 1.75em;padding-left:1em}.wp-block-quote cite,.wp-block-quote footer{color:currentColor;font-size:.8125em;position:relative;font-style:normal}.wp-block-quote.has-text-align-right{border-left:none;border-right:.25em solid;padding-left:0;padding-right:1em}.wp-block-quote.has-text-align-center{border:none;padding-left:0}.wp-block-quote.is-large,.wp-block-quote.is-style-large,.wp-block-quote.is-style-plain{border:none}.wp-block-search .wp-block-search__label{font-weight:700}:where(.wp-block-group.has-background){padding:1.25em 2.375em}.wp-block-separator.has-css-opacity{opacity:.4}.wp-block-separator{border:none;border-bottom:2px solid;margin-left:auto;margin-right:auto}.wp-block-separator.has-alpha-channel-opacity{opacity:1}.wp-block-separator:not(.is-style-wide):not(.is-style-dots){width:100px}.wp-block-separator.has-background:not(.is-style-dots){border-bottom:none;height:1px}.wp-block-separator.has-background:not(.is-style-wide):not(.is-style-dots){height:2px}.wp-block-table thead{border-bottom:3px solid}.wp-block-table tfoot{border-top:3px solid}.wp-block-table td,.wp-block-table th{padding:.5em;border:1px solid;word-break:normal}.wp-block-table figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-table figcaption{color:hsla(0,0%,100%,.65)}.wp-block-video figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-video figcaption{color:hsla(0,0%,100%,.65)}.wp-block-template-part.has-background{padding:1.25em 2.375em;margin-top:0;margin-bottom:0}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+</style>
+<link rel='stylesheet' id='contact-form-7-css'  href='https://www.cajapaita.pe/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.6.4' type='text/css' media='all' />
+<link rel='stylesheet' id='esg-plugin-settings-css'  href='https://www.cajapaita.pe/wp-content/plugins/essential-grid/public/assets/css/settings.css?ver=3.0.15' type='text/css' media='all' />
+<link rel='stylesheet' id='tp-fontello-css'  href='https://www.cajapaita.pe/wp-content/plugins/essential-grid/public/assets/font/fontello/css/fontello.css?ver=3.0.15' type='text/css' media='all' />
+<link rel='stylesheet' id='projects-styles-css'  href='https://www.cajapaita.pe/wp-content/plugins/projects-by-woothemes/assets/css/woo-projects.css?ver=1.5.0' type='text/css' media='all' />
+<link rel='stylesheet' id='projects-handheld-css'  href='https://www.cajapaita.pe/wp-content/plugins/projects-by-woothemes/assets/css/woo-projects-handheld.css?ver=1.5.0' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-job-manager-job-listings-css'  href='https://www.cajapaita.pe/wp-content/plugins/wp-job-manager/assets/dist/css/job-listings.css?ver=d866e43503c5e047c6b0be0a9557cf8e' type='text/css' media='all' />
+<link rel='stylesheet' id='tm-finance-style-css'  href='https://www.cajapaita.pe/wp-content/themes/tm-finance/style.css?ver=6.0.2' type='text/css' media='all' />
+<link rel='stylesheet' id='tm-finance-main-css'  href='https://www.cajapaita.pe/wp-content/themes/tm-finance/assets/css/output/main-ltr.css?ver=6.0.2' type='text/css' media='all' />
+<link rel='stylesheet' id='tm-finance-font-awesome-shims-css'  href='https://www.cajapaita.pe/wp-content/themes/tm-finance/assets/libs/font-awesome/css/v4-shims.min.css?ver=6.0.2' type='text/css' media='all' />
+<link rel='stylesheet' id='tm-finance-font-awesome-css'  href='https://www.cajapaita.pe/wp-content/themes/tm-finance/assets/libs/font-awesome/css/all.min.css?ver=6.0.2' type='text/css' media='all' />
+<link rel='stylesheet' id='pe-icon-7-stroke-css'  href='https://www.cajapaita.pe/wp-content/themes/tm-finance/assets/libs/pe-icon-7-stroke/css/pe-icon-7-stroke.css?ver=6.0.2' type='text/css' media='all' />
+<link rel='stylesheet' id='lightgallery-css'  href='https://www.cajapaita.pe/wp-content/themes/tm-finance/assets/libs/lightgallery/css/lightgallery.min.css?ver=6.0.2' type='text/css' media='all' />
+<link rel='stylesheet' id='magnific-popup-css'  href='https://www.cajapaita.pe/wp-content/themes/tm-finance/assets/libs/magnific-popup/magnific-popup.css?ver=6.0.2' type='text/css' media='all' />
+<link rel='stylesheet' id='js_composer_front-css'  href='https://www.cajapaita.pe/wp-content/plugins/js_composer/assets/css/js_composer.min.css?ver=6.9.0' type='text/css' media='all' />
+<link rel='stylesheet' id='bsf-Defaults-css'  href='https://www.cajapaita.pe/wp-content/uploads/smile_fonts/Defaults/Defaults.css?ver=3.19.12' type='text/css' media='all' />
+<link rel='stylesheet' id='ultimate-vc-addons-style-min-css'  href='https://www.cajapaita.pe/wp-content/plugins/Ultimate_VC_Addons/assets/min-css/ultimate.min.css?ver=3.19.12' type='text/css' media='all' />
+<script type='text/javascript' src='https://www.cajapaita.pe/wp-includes/js/jquery/jquery.min.js?ver=3.6.0' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://www.cajapaita.pe/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<script type='text/javascript' src='https://www.cajapaita.pe/wp-content/plugins/revslider/public/assets/js/rbtools.min.js?ver=6.5.18' async id='tp-tools-js'></script>
+<script type='text/javascript' src='https://www.cajapaita.pe/wp-content/plugins/revslider/public/assets/js/rs6.min.js?ver=6.5.21' async id='revmin-js'></script>
+<script type='text/javascript' src='https://www.cajapaita.pe/wp-content/plugins/Ultimate_VC_Addons/assets/min-js/modernizr-custom.min.js?ver=3.19.12' id='ultimate-vc-addons-modernizr-js'></script>
+<script type='text/javascript' src='https://www.cajapaita.pe/wp-includes/js/jquery/ui/core.min.js?ver=1.13.1' id='jquery-ui-core-js'></script>
+<script type='text/javascript' src='https://www.cajapaita.pe/wp-content/plugins/Ultimate_VC_Addons/assets/min-js/ultimate.min.js?ver=3.19.12' id='ultimate-vc-addons-script-js'></script>
+<script type='text/javascript' src='https://www.cajapaita.pe/wp-content/plugins/Ultimate_VC_Addons/assets/min-js/ultimate_bg.min.js?ver=3.19.12' id='ultimate-vc-addons-row-bg-js'></script>
+<script type='text/javascript' src='https://www.cajapaita.pe/wp-content/plugins/Ultimate_VC_Addons/assets/min-js/modal-all.min.js?ver=3.19.12' id='ultimate-vc-addons-modal-all-js'></script>
+<link rel="https://api.w.org/" href="https://www.cajapaita.pe/wp-json/" /><link rel="alternate" type="application/json" href="https://www.cajapaita.pe/wp-json/wp/v2/pages/1021" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.cajapaita.pe/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.cajapaita.pe/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 6.0.2" />
+<link rel='shortlink' href='https://www.cajapaita.pe/' />
+<link rel="alternate" type="application/json+oembed" href="https://www.cajapaita.pe/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.cajapaita.pe%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.cajapaita.pe/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.cajapaita.pe%2F&#038;format=xml" />
+<!-- start Simple Custom CSS and JS -->
+<script type="text/javascript">
+var $ = window.jQuery; 
+$(document).ready(function() {
+$.ajax({
+        url: "https://www.cajapaita.pe/simulador/tipocambio/vigente"
+    }).then(function(data) {
+       $('.site-top-left').append('<b>Compra S/. '+data.tipocompra + ' - Venta S/. '+data.tipoventa + '</b>');
+       
+    });
+}) ;
+
+var newwindow;
+function cajavirtual(url)
+{	    
+   var izquierda = (screen.availWidth -800) / 2; 
+   var arriba = (screen.availHeight - 650) / 2; 
+   newwindow=window.open(url,'_blank','width=800,height=650,resizable=no,scrollbars=no,status=yes,locationbar=no,menubar=no,location=no,toolbar=no,titlebar=Yes,left='+ izquierda + ',top='+ arriba);
+   if (window.focus) {newwindow.focus()}
+}
+
+var $ = window.jQuery; 
+
+
+
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = 'https://connect.facebook.net/es_LA/sdk/xfbml.customerchat.js#xfbml=1&version=v2.12&autoLogAppEvents=1';
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+
+</script>
+<!-- end Simple Custom CSS and JS -->
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+.big-title:after {
+    background-color: rgba(193,193,193,0.7);
+}
+.site-branding img {
+ max-width: 200px! important;
+ width: 200px! important;
+}
+
+#site-navigation 
+{
+background-color:-webkit-gradient(
+	linear,
+	right bottom,
+	left bottom,
+	color-stop(0.31, rgb(112, 183, 71)),
+	color-stop(1, rgb(105, 172, 33))
+);
+background-image: -o-linear-gradient(left, rgb(112, 183, 71) 31%, rgb(105, 172, 33) 100%);
+background-image: -moz-linear-gradient(left, rgb(112, 183, 71) 31%, rgb(105, 172, 33) 100%);
+background-image: -webkit-linear-gradient(left, rgb(112, 183, 71) 31%, rgb(105, 172, 33) 100%);
+background-image: -ms-linear-gradient(left, rgb(112, 183, 71) 31%, rgb(105, 172, 33) 100%);
+background-image: linear-gradient(to left, rgb(112, 183, 71) 31%, rgb(105, 172, 33) 100%);
+}
+
+#site-navigation a:hover {
+    color: #70B747;
+}
+
+.site-header{
+background-color:-webkit-gradient(
+	linear,
+	right bottom,
+	left bottom,
+	color-stop(0.10, rgb(166, 166, 166)),
+	color-stop(0.55, rgb(255, 255, 255))
+);
+background-image: -o-linear-gradient(left, rgb(166, 166, 166) 10%, rgb(255, 255, 255) 55%);
+background-image: -moz-linear-gradient(left, rgb(166, 166, 166) 10%, rgb(255, 255, 255) 55%);
+background-image: -webkit-linear-gradient(left, rgb(166, 166, 166) 10%, rgb(255, 255, 255) 55%);
+background-image: -ms-linear-gradient(left, rgb(166, 166, 166) 10%, rgb(255, 255, 255) 55%);
+background-image: linear-gradient(to left, rgb(166, 166, 166) 10%, rgb(255, 255, 255) 55%);
+}
+
+.right{ text-align: right;}
+.opera{
+    padding: 5px 10px!important;
+    border-radius: 10px;
+    border: 2px solid #fff !important;
+    float: right;
+    color: #70B747;
+    background-color: #fff;
+    -webkit-transition: all 300ms ease-out;
+    transition: all 300ms ease-out;
+
+   }
+.opera:hover{
+color: #70B747;
+background-color: #fff;
+-webkit-transition: all 300ms ease-out;
+transition: all 300ms ease-out;
+}
+
+@media all and (max-width: 1140px){
+   .right{ width:100%;
+         height:auto;
+        text-align: center;
+        margin-left: auto;
+        padding: 10px 130px;
+        margin-right: auto;}
+  .opera{width:100%;
+  }         
+}
+
+@media all and (max-width: 500px){
+   .right{ width:100%;
+         height:auto;
+        text-align: center;
+        margin-left: auto;
+        padding: 10px 10px;
+        margin-right: auto;}
+  .opera{width:100%;
+  }         
+}
+
+a:focus, a:hover {
+    color: #7ec042;
+}
+
+.entry-meta {
+display: none;
+}
+
+.container .tm_bread_crumb{
+height:45px;
+padding: 10px 0 20px 0;   
+margin-bottom: 30px;  
+}
+
+.site-footer .social{
+display: none;
+}
+
+#content{
+min-height: 400px;
+}
+ul#primary-menu li#menu-item-6393 a {
+    color:yellow;
+}
+</style>
+<!-- end Simple Custom CSS and JS -->
+<!-- Analytics by WP Statistics v14.0.1 - https://wp-statistics.com/ -->
+<meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress."/>
+        <style type="text/css">
+                        .site-title a,
+            .site-description {
+                color: #000000;
+            }
+
+                    </style>
+        <meta name="generator" content="Powered by Slider Revolution 6.5.21 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
+<script>function setREVStartSize(e){
+			//window.requestAnimationFrame(function() {
+				window.RSIW = window.RSIW===undefined ? window.innerWidth : window.RSIW;
+				window.RSIH = window.RSIH===undefined ? window.innerHeight : window.RSIH;
+				try {
+					var pw = document.getElementById(e.c).parentNode.offsetWidth,
+						newh;
+					pw = pw===0 || isNaN(pw) ? window.RSIW : pw;
+					e.tabw = e.tabw===undefined ? 0 : parseInt(e.tabw);
+					e.thumbw = e.thumbw===undefined ? 0 : parseInt(e.thumbw);
+					e.tabh = e.tabh===undefined ? 0 : parseInt(e.tabh);
+					e.thumbh = e.thumbh===undefined ? 0 : parseInt(e.thumbh);
+					e.tabhide = e.tabhide===undefined ? 0 : parseInt(e.tabhide);
+					e.thumbhide = e.thumbhide===undefined ? 0 : parseInt(e.thumbhide);
+					e.mh = e.mh===undefined || e.mh=="" || e.mh==="auto" ? 0 : parseInt(e.mh,0);
+					if(e.layout==="fullscreen" || e.l==="fullscreen")
+						newh = Math.max(e.mh,window.RSIH);
+					else{
+						e.gw = Array.isArray(e.gw) ? e.gw : [e.gw];
+						for (var i in e.rl) if (e.gw[i]===undefined || e.gw[i]===0) e.gw[i] = e.gw[i-1];
+						e.gh = e.el===undefined || e.el==="" || (Array.isArray(e.el) && e.el.length==0)? e.gh : e.el;
+						e.gh = Array.isArray(e.gh) ? e.gh : [e.gh];
+						for (var i in e.rl) if (e.gh[i]===undefined || e.gh[i]===0) e.gh[i] = e.gh[i-1];
+											
+						var nl = new Array(e.rl.length),
+							ix = 0,
+							sl;
+						e.tabw = e.tabhide>=pw ? 0 : e.tabw;
+						e.thumbw = e.thumbhide>=pw ? 0 : e.thumbw;
+						e.tabh = e.tabhide>=pw ? 0 : e.tabh;
+						e.thumbh = e.thumbhide>=pw ? 0 : e.thumbh;
+						for (var i in e.rl) nl[i] = e.rl[i]<window.RSIW ? 0 : e.rl[i];
+						sl = nl[0];
+						for (var i in nl) if (sl>nl[i] && nl[i]>0) { sl = nl[i]; ix=i;}
+						var m = pw>(e.gw[ix]+e.tabw+e.thumbw) ? 1 : (pw-(e.tabw+e.thumbw)) / (e.gw[ix]);
+						newh =  (e.gh[ix] * m) + (e.tabh + e.thumbh);
+					}
+					var el = document.getElementById(e.c);
+					if (el!==null && el) el.style.height = newh+"px";
+					el = document.getElementById(e.c+"_wrapper");
+					if (el!==null && el) {
+						el.style.height = newh+"px";
+						el.style.display = "block";
+					}
+				} catch(e){
+					console.log("Failure at Presize of Slider:" + e)
+				}
+			//});
+		  };</script>
+<style id="kirki-inline-styles">.primary_color, .amount, .popup-search-close:hover, .site-header .social-menu ul li:hover a:before, a:hover, a:hover h1, a:hover h2, a:hover h3, a:hover h4, a:hover h5, a:hover h6, .site-footer a:hover, .copyright a, .site-top a:hover, .wpb-js-composer .eg-tm-service-02-element-33, .wpb-js-composer .eg-tm-service-02-element-36, .tm-ourhistory ul li:before, .tm-ourhistory2 ul li:before, .esg-entry-content .eg-tm-services-03-element-33, .better-menu-widget .current-menu-item a, .better-menu-widget .current_page_item a, .tm-list ul li:before, .tm-list2 ul li:before, .tm-tab .vc_tta-tabs-container ul li.vc_active a, .widget_product_categories li.current-cat a, .hentry .entry-meta a, .widget_categories li.current-cat a, .single-post .comment .comment-reply-link, .page .comment .comment-reply-link, .single-post .comment-respond input[type="submit"], .page .comment-respond input[type="submit"], .countdown .number, .content404 .icon i, .tm-list-2 ul li:before{color:#ce0a0a;}.primary_bgcolor, .header02 .site-header .social-menu ul li, input[type="submit"], .site-content input[type="submit"], .products .product-item .add_to_cart_button:hover, .products .product-item .ajax_add_to_cart:hover, .ourteam-type3 .ourteam-info .ourteam-socials .icon:hover, .header01 .site-header .social-menu ul li:hover, .testimonials-style3 .owl-item:before, .testimonials-style4 .owl-item:before, .testimonials-style5 .owl-item:before, .testimonials-style6 .owl-item:before, .testimonials-style7 .owl-item:before, .projects-style1 .projects-item .projects-title a:hover, .ourteam-type2 .ourteam-info .ourteam-socials .icon:hover, #tm-services-01 li .esg-media-cover-wrapper .esg-entry-content .esg-content:first-child, .products .product-item .onsale, .single-product .product .cart .single_add_to_cart_button, .post-thumb .dates, .hentry .entry-footer .read-more:hover, .hentry .share a i:hover:before, .single-post .comment-respond input[type="submit"]:hover, .page .comment-respond input[type="submit"]:hover, .tm-getconnected .social-menu .menu li:hover, .woocommerce .widget_price_filter .price_slider_amount .button:hover, .woocommerce .widget_price_filter .ui-slider .ui-slider-range, .woocommerce table.shop_table thead, .woocommerce .cart_totals .wc-proceed-to-checkout .checkout-button{background-color:#ce0a0a;}.primary_bdcolor, input[type="submit"], .site-content input[type="submit"], .tm-tab .vc_tta-tabs-container ul.vc_tta-tabs-list li.vc_tta-tab.vc_active > a, .vc_tta.tm-accordion .vc_tta-panels .vc_tta-panel.vc_active .vc_tta-panel-heading, .vc_tta-tabs:not([class*=vc_tta-gap]):not(.vc_tta-o-no-fill).vc_tta-tabs-position-top .vc_tta-tab.vc_active>a, .woocommerce div.product .woocommerce-tabs ul.tabs li.active, .hentry .entry-footer .read-more:hover, .single-post .comment-respond input[type="submit"], .page .comment-respond input[type="submit"], .countdown .number, .woocommerce .widget_price_filter .price_slider_amount .button:hover, .woocommerce .widget_price_filter .ui-slider .ui-slider-handle, .sidebar ul li.current-menu-item{border-color:#ce0a0a;}body,p{font-family:Roboto;font-size:16px;font-weight:300;font-style:bold;letter-spacing:-.05em;line-height:1.8;}body{color:#222222;}a{color:#222222;}h1,h2,h3,h4,h5,h6{font-family:Roboto;font-weight:700;letter-spacing:-.05em;line-height:1.5;color:#222222;}h1{font-size:28px;}h2{font-size:24px;}h3{font-size:20px;}h4{font-size:16px;}h5{font-size:14px;}h6{font-size:12px;}.boxed{background-color:#999999;}.site-top{background-color:rgba(255,255,255,0.74);padding:3px 0px 3px 0px;margin:0px 0px 0px 0px;font-family:Roboto;font-size:11px;font-weight:400;font-style:normal;letter-spacing:0em;line-height:1.5;color:#000000;}.site-top a{color:#666666;}.site-header{background-color:#279913;padding:12px 0px 12px 0px;margin:0px 0px 0px 0px;}.main-navigation{margin:0px 0px 0px 0px;font-family:Roboto;font-size:14px;font-weight:700;font-style:normal;letter-spacing:0em;line-height:1.4;}.main-navigation .menu > ul > li > a, .main-navigation .menu > li > a, .main-navigation .search-btn, .mobile-icon{color:#ffffff;}.main-navigation .menu > li.current-menu-item > a,.main-navigation .menu > ul > li > a:hover, .main-navigation .menu > li > a:hover, .main-navigation .search-btn:hover, .mobile-icon:hover{color:#ffffff;}.main-navigation .menu > ul > li, .main-navigation .menu > li{padding:7px 0px 8px 0px;margin:0px 30px 0px 0px;}.site-footer{background-color:#383838;padding:20px 0px 10px 0px;color:#ffffff;}.site-footer, .site-footer p{font-family:Roboto;font-size:16px;font-weight:400;font-style:bold;letter-spacing:0em;}.site-footer a{color:#CCCCCC;}.site-footer a:hover{color:#858585;}.copyright{background-color:#383838;padding:10px 0px 10px 0px;color:#a8a8a8;}.copyright a{color:#dddddd;}.copyright a:hover{color:#b7b7b7;}.big-title .entry-title{font-family:Roboto;font-size:19px;font-weight:400;font-style:normal;letter-spacing:0em;line-height:1;color:#4c4c4c;}.big-title{padding:7px 0px 7px 0px;background-color:#fff;}.big-title:after{background-color:rgba(193,193,193,0.7);}/* cyrillic-ext */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 300;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuaabVmZiAz0klQm_20O0g.woff) format('woff');
+  unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 300;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuaabVmQiAz0klQm_20O0g.woff) format('woff');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* greek-ext */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 300;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuaabVmYiAz0klQm_20O0g.woff) format('woff');
+  unicode-range: U+1F00-1FFF;
+}
+/* greek */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 300;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuaabVmXiAz0klQm_20O0g.woff) format('woff');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+}
+/* math */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 300;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuaabVnoiAz0klQm_20O0g.woff) format('woff');
+  unicode-range: U+0302-0303, U+0305, U+0307-0308, U+0310, U+0312, U+0315, U+031A, U+0326-0327, U+032C, U+032F-0330, U+0332-0333, U+0338, U+033A, U+0346, U+034D, U+0391-03A1, U+03A3-03A9, U+03B1-03C9, U+03D1, U+03D5-03D6, U+03F0-03F1, U+03F4-03F5, U+2016-2017, U+2034-2038, U+203C, U+2040, U+2043, U+2047, U+2050, U+2057, U+205F, U+2070-2071, U+2074-208E, U+2090-209C, U+20D0-20DC, U+20E1, U+20E5-20EF, U+2100-2112, U+2114-2115, U+2117-2121, U+2123-214F, U+2190, U+2192, U+2194-21AE, U+21B0-21E5, U+21F1-21F2, U+21F4-2211, U+2213-2214, U+2216-22FF, U+2308-230B, U+2310, U+2319, U+231C-2321, U+2336-237A, U+237C, U+2395, U+239B-23B7, U+23D0, U+23DC-23E1, U+2474-2475, U+25AF, U+25B3, U+25B7, U+25BD, U+25C1, U+25CA, U+25CC, U+25FB, U+266D-266F, U+27C0-27FF, U+2900-2AFF, U+2B0E-2B11, U+2B30-2B4C, U+2BFE, U+3030, U+FF5B, U+FF5D, U+1D400-1D7FF, U+1EE00-1EEFF;
+}
+/* symbols */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 300;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuaabVn6iAz0klQm_20O0g.woff) format('woff');
+  unicode-range: U+0001-000C, U+000E-001F, U+007F-009F, U+20DD-20E0, U+20E2-20E4, U+2150-218F, U+2190, U+2192, U+2194-2199, U+21AF, U+21E6-21F0, U+21F3, U+2218-2219, U+2299, U+22C4-22C6, U+2300-243F, U+2440-244A, U+2460-24FF, U+25A0-27BF, U+2800-28FF, U+2921-2922, U+2981, U+29BF, U+29EB, U+2B00-2BFF, U+4DC0-4DFF, U+FFF9-FFFB, U+10140-1018E, U+10190-1019C, U+101A0, U+101D0-101FD, U+102E0-102FB, U+10E60-10E7E, U+1D2C0-1D2D3, U+1D2E0-1D37F, U+1F000-1F0FF, U+1F100-1F1AD, U+1F1E6-1F1FF, U+1F30D-1F30F, U+1F315, U+1F31C, U+1F31E, U+1F320-1F32C, U+1F336, U+1F378, U+1F37D, U+1F382, U+1F393-1F39F, U+1F3A7-1F3A8, U+1F3AC-1F3AF, U+1F3C2, U+1F3C4-1F3C6, U+1F3CA-1F3CE, U+1F3D4-1F3E0, U+1F3ED, U+1F3F1-1F3F3, U+1F3F5-1F3F7, U+1F408, U+1F415, U+1F41F, U+1F426, U+1F43F, U+1F441-1F442, U+1F444, U+1F446-1F449, U+1F44C-1F44E, U+1F453, U+1F46A, U+1F47D, U+1F4A3, U+1F4B0, U+1F4B3, U+1F4B9, U+1F4BB, U+1F4BF, U+1F4C8-1F4CB, U+1F4D6, U+1F4DA, U+1F4DF, U+1F4E3-1F4E6, U+1F4EA-1F4ED, U+1F4F7, U+1F4F9-1F4FB, U+1F4FD-1F4FE, U+1F503, U+1F507-1F50B, U+1F50D, U+1F512-1F513, U+1F53E-1F54A, U+1F54F-1F5FA, U+1F610, U+1F650-1F67F, U+1F687, U+1F68D, U+1F691, U+1F694, U+1F698, U+1F6AD, U+1F6B2, U+1F6B9-1F6BA, U+1F6BC, U+1F6C6-1F6CF, U+1F6D3-1F6D7, U+1F6E0-1F6EA, U+1F6F0-1F6F3, U+1F6F7-1F6FC, U+1F700-1F7FF, U+1F800-1F80B, U+1F810-1F847, U+1F850-1F859, U+1F860-1F887, U+1F890-1F8AD, U+1F8B0-1F8BB, U+1F8C0-1F8C1, U+1F900-1F90B, U+1F93B, U+1F946, U+1F984, U+1F996, U+1F9E9, U+1FA00-1FA6F, U+1FA70-1FA7C, U+1FA80-1FA89, U+1FA8F-1FAC6, U+1FACE-1FADC, U+1FADF-1FAE9, U+1FAF0-1FAF8, U+1FB00-1FBFF;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 300;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuaabVmbiAz0klQm_20O0g.woff) format('woff');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 300;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuaabVmaiAz0klQm_20O0g.woff) format('woff');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 300;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuaabVmUiAz0klQm_20.woff) format('woff');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* cyrillic-ext */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmZiAz0klQm_20O0g.woff) format('woff');
+  unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmQiAz0klQm_20O0g.woff) format('woff');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* greek-ext */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmYiAz0klQm_20O0g.woff) format('woff');
+  unicode-range: U+1F00-1FFF;
+}
+/* greek */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmXiAz0klQm_20O0g.woff) format('woff');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+}
+/* math */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVnoiAz0klQm_20O0g.woff) format('woff');
+  unicode-range: U+0302-0303, U+0305, U+0307-0308, U+0310, U+0312, U+0315, U+031A, U+0326-0327, U+032C, U+032F-0330, U+0332-0333, U+0338, U+033A, U+0346, U+034D, U+0391-03A1, U+03A3-03A9, U+03B1-03C9, U+03D1, U+03D5-03D6, U+03F0-03F1, U+03F4-03F5, U+2016-2017, U+2034-2038, U+203C, U+2040, U+2043, U+2047, U+2050, U+2057, U+205F, U+2070-2071, U+2074-208E, U+2090-209C, U+20D0-20DC, U+20E1, U+20E5-20EF, U+2100-2112, U+2114-2115, U+2117-2121, U+2123-214F, U+2190, U+2192, U+2194-21AE, U+21B0-21E5, U+21F1-21F2, U+21F4-2211, U+2213-2214, U+2216-22FF, U+2308-230B, U+2310, U+2319, U+231C-2321, U+2336-237A, U+237C, U+2395, U+239B-23B7, U+23D0, U+23DC-23E1, U+2474-2475, U+25AF, U+25B3, U+25B7, U+25BD, U+25C1, U+25CA, U+25CC, U+25FB, U+266D-266F, U+27C0-27FF, U+2900-2AFF, U+2B0E-2B11, U+2B30-2B4C, U+2BFE, U+3030, U+FF5B, U+FF5D, U+1D400-1D7FF, U+1EE00-1EEFF;
+}
+/* symbols */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVn6iAz0klQm_20O0g.woff) format('woff');
+  unicode-range: U+0001-000C, U+000E-001F, U+007F-009F, U+20DD-20E0, U+20E2-20E4, U+2150-218F, U+2190, U+2192, U+2194-2199, U+21AF, U+21E6-21F0, U+21F3, U+2218-2219, U+2299, U+22C4-22C6, U+2300-243F, U+2440-244A, U+2460-24FF, U+25A0-27BF, U+2800-28FF, U+2921-2922, U+2981, U+29BF, U+29EB, U+2B00-2BFF, U+4DC0-4DFF, U+FFF9-FFFB, U+10140-1018E, U+10190-1019C, U+101A0, U+101D0-101FD, U+102E0-102FB, U+10E60-10E7E, U+1D2C0-1D2D3, U+1D2E0-1D37F, U+1F000-1F0FF, U+1F100-1F1AD, U+1F1E6-1F1FF, U+1F30D-1F30F, U+1F315, U+1F31C, U+1F31E, U+1F320-1F32C, U+1F336, U+1F378, U+1F37D, U+1F382, U+1F393-1F39F, U+1F3A7-1F3A8, U+1F3AC-1F3AF, U+1F3C2, U+1F3C4-1F3C6, U+1F3CA-1F3CE, U+1F3D4-1F3E0, U+1F3ED, U+1F3F1-1F3F3, U+1F3F5-1F3F7, U+1F408, U+1F415, U+1F41F, U+1F426, U+1F43F, U+1F441-1F442, U+1F444, U+1F446-1F449, U+1F44C-1F44E, U+1F453, U+1F46A, U+1F47D, U+1F4A3, U+1F4B0, U+1F4B3, U+1F4B9, U+1F4BB, U+1F4BF, U+1F4C8-1F4CB, U+1F4D6, U+1F4DA, U+1F4DF, U+1F4E3-1F4E6, U+1F4EA-1F4ED, U+1F4F7, U+1F4F9-1F4FB, U+1F4FD-1F4FE, U+1F503, U+1F507-1F50B, U+1F50D, U+1F512-1F513, U+1F53E-1F54A, U+1F54F-1F5FA, U+1F610, U+1F650-1F67F, U+1F687, U+1F68D, U+1F691, U+1F694, U+1F698, U+1F6AD, U+1F6B2, U+1F6B9-1F6BA, U+1F6BC, U+1F6C6-1F6CF, U+1F6D3-1F6D7, U+1F6E0-1F6EA, U+1F6F0-1F6F3, U+1F6F7-1F6FC, U+1F700-1F7FF, U+1F800-1F80B, U+1F810-1F847, U+1F850-1F859, U+1F860-1F887, U+1F890-1F8AD, U+1F8B0-1F8BB, U+1F8C0-1F8C1, U+1F900-1F90B, U+1F93B, U+1F946, U+1F984, U+1F996, U+1F9E9, U+1FA00-1FA6F, U+1FA70-1FA7C, U+1FA80-1FA89, U+1FA8F-1FAC6, U+1FACE-1FADC, U+1FADF-1FAE9, U+1FAF0-1FAF8, U+1FB00-1FBFF;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmbiAz0klQm_20O0g.woff) format('woff');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmaiAz0klQm_20O0g.woff) format('woff');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmUiAz0klQm_20.woff) format('woff');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* cyrillic-ext */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjalmZiAz0klQm_20O0g.woff) format('woff');
+  unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjalmQiAz0klQm_20O0g.woff) format('woff');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* greek-ext */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjalmYiAz0klQm_20O0g.woff) format('woff');
+  unicode-range: U+1F00-1FFF;
+}
+/* greek */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjalmXiAz0klQm_20O0g.woff) format('woff');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+}
+/* math */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjalnoiAz0klQm_20O0g.woff) format('woff');
+  unicode-range: U+0302-0303, U+0305, U+0307-0308, U+0310, U+0312, U+0315, U+031A, U+0326-0327, U+032C, U+032F-0330, U+0332-0333, U+0338, U+033A, U+0346, U+034D, U+0391-03A1, U+03A3-03A9, U+03B1-03C9, U+03D1, U+03D5-03D6, U+03F0-03F1, U+03F4-03F5, U+2016-2017, U+2034-2038, U+203C, U+2040, U+2043, U+2047, U+2050, U+2057, U+205F, U+2070-2071, U+2074-208E, U+2090-209C, U+20D0-20DC, U+20E1, U+20E5-20EF, U+2100-2112, U+2114-2115, U+2117-2121, U+2123-214F, U+2190, U+2192, U+2194-21AE, U+21B0-21E5, U+21F1-21F2, U+21F4-2211, U+2213-2214, U+2216-22FF, U+2308-230B, U+2310, U+2319, U+231C-2321, U+2336-237A, U+237C, U+2395, U+239B-23B7, U+23D0, U+23DC-23E1, U+2474-2475, U+25AF, U+25B3, U+25B7, U+25BD, U+25C1, U+25CA, U+25CC, U+25FB, U+266D-266F, U+27C0-27FF, U+2900-2AFF, U+2B0E-2B11, U+2B30-2B4C, U+2BFE, U+3030, U+FF5B, U+FF5D, U+1D400-1D7FF, U+1EE00-1EEFF;
+}
+/* symbols */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjaln6iAz0klQm_20O0g.woff) format('woff');
+  unicode-range: U+0001-000C, U+000E-001F, U+007F-009F, U+20DD-20E0, U+20E2-20E4, U+2150-218F, U+2190, U+2192, U+2194-2199, U+21AF, U+21E6-21F0, U+21F3, U+2218-2219, U+2299, U+22C4-22C6, U+2300-243F, U+2440-244A, U+2460-24FF, U+25A0-27BF, U+2800-28FF, U+2921-2922, U+2981, U+29BF, U+29EB, U+2B00-2BFF, U+4DC0-4DFF, U+FFF9-FFFB, U+10140-1018E, U+10190-1019C, U+101A0, U+101D0-101FD, U+102E0-102FB, U+10E60-10E7E, U+1D2C0-1D2D3, U+1D2E0-1D37F, U+1F000-1F0FF, U+1F100-1F1AD, U+1F1E6-1F1FF, U+1F30D-1F30F, U+1F315, U+1F31C, U+1F31E, U+1F320-1F32C, U+1F336, U+1F378, U+1F37D, U+1F382, U+1F393-1F39F, U+1F3A7-1F3A8, U+1F3AC-1F3AF, U+1F3C2, U+1F3C4-1F3C6, U+1F3CA-1F3CE, U+1F3D4-1F3E0, U+1F3ED, U+1F3F1-1F3F3, U+1F3F5-1F3F7, U+1F408, U+1F415, U+1F41F, U+1F426, U+1F43F, U+1F441-1F442, U+1F444, U+1F446-1F449, U+1F44C-1F44E, U+1F453, U+1F46A, U+1F47D, U+1F4A3, U+1F4B0, U+1F4B3, U+1F4B9, U+1F4BB, U+1F4BF, U+1F4C8-1F4CB, U+1F4D6, U+1F4DA, U+1F4DF, U+1F4E3-1F4E6, U+1F4EA-1F4ED, U+1F4F7, U+1F4F9-1F4FB, U+1F4FD-1F4FE, U+1F503, U+1F507-1F50B, U+1F50D, U+1F512-1F513, U+1F53E-1F54A, U+1F54F-1F5FA, U+1F610, U+1F650-1F67F, U+1F687, U+1F68D, U+1F691, U+1F694, U+1F698, U+1F6AD, U+1F6B2, U+1F6B9-1F6BA, U+1F6BC, U+1F6C6-1F6CF, U+1F6D3-1F6D7, U+1F6E0-1F6EA, U+1F6F0-1F6F3, U+1F6F7-1F6FC, U+1F700-1F7FF, U+1F800-1F80B, U+1F810-1F847, U+1F850-1F859, U+1F860-1F887, U+1F890-1F8AD, U+1F8B0-1F8BB, U+1F8C0-1F8C1, U+1F900-1F90B, U+1F93B, U+1F946, U+1F984, U+1F996, U+1F9E9, U+1FA00-1FA6F, U+1FA70-1FA7C, U+1FA80-1FA89, U+1FA8F-1FAC6, U+1FACE-1FADC, U+1FADF-1FAE9, U+1FAF0-1FAF8, U+1FB00-1FBFF;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjalmbiAz0klQm_20O0g.woff) format('woff');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjalmaiAz0klQm_20O0g.woff) format('woff');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjalmUiAz0klQm_20.woff) format('woff');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}</style><style type="text/css" data-type="vc_custom-css">ul#primary-menu li#menu-item-6393 a {
+    color:yellow;
+}</style><style type="text/css" data-type="vc_shortcodes-custom-css">.vc_custom_1484691750724{margin-top: 15px !important;}.vc_custom_1495593977622{margin-top: 0px !important;margin-bottom: 0px !important;padding-top: 25px !important;padding-bottom: 25px !important;background-color: #ededed !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1682435602149{background-color: #70b747 !important;}.vc_custom_1610640369631{margin-bottom: -5px !important;border-bottom-width: -5px !important;padding-top: 10px !important;padding-right: 0px !important;padding-bottom: 10px !important;padding-left: 0px !important;background-color: #b5b5b5 !important;}.vc_custom_1482820476334{padding-top: 0px !important;padding-bottom: 0px !important;}.vc_custom_1509495094927{padding-bottom: 20px !important;}.vc_custom_1482884709693{margin-bottom: 20px !important;}.vc_custom_1482884709693{margin-bottom: 20px !important;}.vc_custom_1591467553693{padding-top: 30px !important;}.vc_custom_1485232556640{padding-top: 30px !important;}.vc_custom_1485233478357{padding-top: 30px !important;}</style><noscript><style> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript></head>
+<body class="home page-template-default page page-id-1021 group-blog header01 full-width core_140 tm-finance wpb-js-composer js-comp-ver-6.9.0 vc_responsive">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-dark-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0.49803921568627" /><feFuncG type="table" tableValues="0 0.49803921568627" /><feFuncB type="table" tableValues="0 0.49803921568627" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-blue-red"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 0.27843137254902" /><feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-midnight"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0" /><feFuncG type="table" tableValues="0 0.64705882352941" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-magenta-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.78039215686275 1" /><feFuncG type="table" tableValues="0 0.94901960784314" /><feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-green"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.44705882352941 0.4" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-blue-orange"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.098039215686275 1" /><feFuncG type="table" tableValues="0 0.66274509803922" /><feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><div id="page" class="site">
+        <div class="site-top">
+        <div class="container">
+            <div class="row row-xs-center">
+                <div class="col-md-6 align-left site-top-left">
+                    Tipo de Cambio:                </div>
+                <div class="col-md-6 end-md end-lg align-right site-top-right">
+                    <div class="menu-top-menu-container"><ul id="menu-top-menu" class="menu"><li id="menu-item-4281" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4281"><a href="#"><span style="color:#000000;" class="fa fa-phone" aria-hidden="true"><font face="roboto"> Linea de atención al cliente: <b>(073) 258780</b></font></span></a></li>
+</ul></div>                </div>
+            </div>
+        </div>
+    </div>
+<header class="site-header">
+    <div class="container">
+        <div class="row row-xs-center">
+            <div class="col-md-3 col-sm-8 col-xs-8 site-branding">
+                                    <a href="https://www.cajapaita.pe/" rel="home">
+                        <img
+                            src="https://www.cajapaita.pe/wp-content/uploads/2023/04/logo_cajapaita_colores_institucionalesok25042023.png"  srcset="https://www.cajapaita.pe/wp-content/uploads/2023/04/logo_cajapaita_colores_institucionalesok25042023.png 2x"                             alt="Caja Paita"/>
+                    </a>
+                            </div>
+                            <div class="col-sm-4 col-xs-4 hidden-md-up end align-right mobile-icon">
+                    <i id="open-left" class="fa fa-navicon"></i>
+                </div>
+                        <div class="col-md-7 hidden-sm-down">
+                <aside id="custom_html-2" class="widget_text widget header01-info widget_custom_html"><div class="textwidget custom-html-widget"><meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<div class= "cen">
+ <div class="row">
+  <div class="col-md-11 hidden-xs-down ">
+ <span>
+   <a href="javascript:cajavirtual('https://b2c.cmac-paita.com.pe/ihb/code/6054230a-033a-48ad-b458-7a5871a8f21e.aspx')" 
+class="opera"   style=" font-size: 16px;" > <i class="fa fa-laptop" style="font-size: 16px;"></i><b> Operaciones en Línea</b></a>
+ </span>
+ </div>
+ 
+ <div class="col-md-1 hidden-xs-down" >
+  <span>
+  <a href="javascript:cajavirtual('https://www.cajapaita.pe/wp-content/uploads/2018/11/MA
+NUAL-DE-USUARIO-DEL-INTERNET-HOME-BANKING-Mod.pdf')" 
+class="opera"   style=" font-size: 16px;" data-toggle="tooltip" title="Clic aqui para ver Manual de Usuario de Operaciones en Linea." > 
+<i class="fa fa-book" style="font-size: 16px;"></i><b></b></a>
+ </span>
+ </div>
+</div>
+</div></div></aside>            </div>
+            <div class="col-md-2 hidden-sm-down">
+                <div class="social-menu"><ul id="menu-social-menu" class="menu"><li id="menu-item-1802" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1802"><a href="http://facebook.com/cajapaita">Facebook</a></li>
+</ul></div>            </div>
+        </div>
+    </div>
+</header><!-- .site-header -->
+<nav id="site-navigation"
+     class="primary_bgcolor main-navigation creative-link hidden-sm-down bg-gradient">
+    <div class="container">
+        <div class="row middle row-xs-center nav-content">
+                                                    <div class="col-md-12">
+                <div class="primary-menu"><ul id="primary-menu" class="menu"><li id="menu-item-1927" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1927"><a href="#"><span data-hover="Nosotros">Nosotros</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-2045" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2045"><a href="https://www.cajapaita.pe/quienes-somos/"><span data-hover="Quiénes Somos">Quiénes Somos</span></a></li>
+	<li id="menu-item-1963" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1963"><a href="https://www.cajapaita.pe/nuestra-historia/"><span data-hover="Nuestra Historia">Nuestra Historia</span></a></li>
+	<li id="menu-item-2018" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2018"><a href="https://www.cajapaita.pe/mision-y-vision/"><span data-hover="Misión y Visión">Misión y Visión</span></a></li>
+	<li id="menu-item-2602" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2602"><a href="https://www.cajapaita.pe/valores-corporativos/"><span data-hover="Nuestro Valores">Nuestro Valores</span></a></li>
+	<li id="menu-item-7282" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7282"><a href="https://www.cajapaita.pe/objetivos-estrategicos/"><span data-hover="Objetivos Estratégicos">Objetivos Estratégicos</span></a></li>
+	<li id="menu-item-3927" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3927"><a href="https://www.cajapaita.pe/directorio/"><span data-hover="Nuestro Directorio">Nuestro Directorio</span></a></li>
+	<li id="menu-item-3932" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3932"><a href="https://www.cajapaita.pe/gerencia-mancomunada/"><span data-hover="Gerencia Mancomunada">Gerencia Mancomunada</span></a></li>
+	<li id="menu-item-3958" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3958"><a href="https://www.cajapaita.pe/recursos-humanos/"><span data-hover="Recursos Humanos">Recursos Humanos</span></a></li>
+	<li id="menu-item-4118" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4118"><a href="https://www.cajapaita.pe/convocatorias-de-personal/"><span data-hover="Trabaja con nosotros">Trabaja con nosotros</span></a></li>
+	<li id="menu-item-7656" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7656"><a href="https://www.cajapaita.pe/protocolos-covid19/"><span data-hover="Protocolos COVID19">Protocolos COVID19</span></a></li>
+</ul>
+</li>
+<li id="menu-item-1928" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1928"><a href="#"><span data-hover="Productos y Servicios">Productos y Servicios</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-3275" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-3275"><a href="https://www.cajapaita.pe/creditos/"><span data-hover="Créditos">Créditos</span></a>
+	<ul class="sub-menu">
+		<li id="menu-item-2895" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2895"><a href="#"><span data-hover="Empresarial">Empresarial</span></a>
+		<ul class="sub-menu">
+			<li id="menu-item-5994" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5994"><a href="https://www.cajapaita.pe/creditos/credito-preaprobado/"><span data-hover="Pre Aprobado">Pre Aprobado</span></a></li>
+			<li id="menu-item-2892" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2892"><a href="https://www.cajapaita.pe/creditos/credito-rapidito/"><span data-hover="Rapidito">Rapidito</span></a></li>
+			<li id="menu-item-2908" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2908"><a href="https://www.cajapaita.pe/creditos/full-chamba/"><span data-hover="Full Chamba">Full Chamba</span></a></li>
+			<li id="menu-item-5995" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5995"><a href="https://www.cajapaita.pe/creditos/credito-agropecuario/"><span data-hover="Agropecuario">Agropecuario</span></a></li>
+			<li id="menu-item-5996" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5996"><a href="https://www.cajapaita.pe/creditos/credito-empresarial/"><span data-hover="Empresarial">Empresarial</span></a></li>
+			<li id="menu-item-5997" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5997"><a href="https://www.cajapaita.pe/creditos/credito-pesca/"><span data-hover="Pesca">Pesca</span></a></li>
+			<li id="menu-item-2893" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2893"><a href="https://www.cajapaita.pe/creditos/credito-crece-mujer/"><span data-hover="Crece Mujer">Crece Mujer</span></a></li>
+		</ul>
+</li>
+		<li id="menu-item-2896" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2896"><a href="#"><span data-hover="Consumo">Consumo</span></a>
+		<ul class="sub-menu">
+			<li id="menu-item-2902" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2902"><a href="https://www.cajapaita.pe/creditos/credito-libre-disponibilidad/"><span data-hover="Libre Disponibilidad">Libre Disponibilidad</span></a></li>
+			<li id="menu-item-2903" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2903"><a href="https://www.cajapaita.pe/creditos/credito-descuento-por-planilla/"><span data-hover="Descuento por Planilla">Descuento por Planilla</span></a></li>
+			<li id="menu-item-2904" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2904"><a href="https://www.cajapaita.pe/creditos/crediplazos/"><span data-hover="Crediplazo">Crediplazo</span></a></li>
+			<li id="menu-item-2905" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2905"><a href="https://www.cajapaita.pe/creditos/credito-joya-plus/"><span data-hover="Joya Plus">Joya Plus</span></a></li>
+			<li id="menu-item-5999" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5999"><a href="https://www.cajapaita.pe/creditos/credito-full-chmba/"><span data-hover="Full Chamba">Full Chamba</span></a></li>
+			<li id="menu-item-6000" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6000"><a href="https://www.cajapaita.pe/creditos/credito-pre-aprobado/"><span data-hover="Pre Aprobado">Pre Aprobado</span></a></li>
+			<li id="menu-item-10207" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10207"><a href="https://www.cajapaita.pe/creditos/credito-saneahogar/"><span data-hover="Saneahogar">Saneahogar</span></a></li>
+			<li id="menu-item-10210" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10210"><a href="https://www.cajapaita.pe/creditos/credito-administrativo/"><span data-hover="Administrativo">Administrativo</span></a></li>
+		</ul>
+</li>
+	</ul>
+</li>
+	<li id="menu-item-3814" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-3814"><a href="https://www.cajapaita.pe/ahorros/"><span data-hover="Ahorros">Ahorros</span></a>
+	<ul class="sub-menu">
+		<li id="menu-item-2879" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2879"><a href="#"><span data-hover="Ahorros">Ahorros</span></a>
+		<ul class="sub-menu">
+			<li id="menu-item-2880" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2880"><a href="https://www.cajapaita.pe/ahorros/ahorro-corriente/"><span data-hover="Ahorro">Ahorro</span></a></li>
+			<li id="menu-item-3815" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3815"><a href="https://www.cajapaita.pe/ahorros/ordenes-de-pago/"><span data-hover="Ordenes de Pago">Ordenes de Pago</span></a></li>
+			<li id="menu-item-5453" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5453"><a href="https://www.cajapaita.pe/ahorros/cuenta-sueldo/"><span data-hover="Cuenta Sueldo">Cuenta Sueldo</span></a></li>
+			<li id="menu-item-5452" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5452"><a href="https://www.cajapaita.pe/ahorros/plus-ahorro/"><span data-hover="Plus Ahorro">Plus Ahorro</span></a></li>
+			<li id="menu-item-9936" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9936"><a href="https://www.cajapaita.pe/ahorros/peke-ahorro/"><span data-hover="Peke Ahorro">Peke Ahorro</span></a></li>
+		</ul>
+</li>
+		<li id="menu-item-2884" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2884"><a href="#"><span data-hover="Depósitos a Plazo Fijo">Depósitos a Plazo Fijo</span></a>
+		<ul class="sub-menu">
+			<li id="menu-item-3214" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3214"><a href="https://www.cajapaita.pe/ahorros/plazo-fijo/"><span data-hover="Plazo Fijo">Plazo Fijo</span></a></li>
+			<li id="menu-item-3213" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3213"><a href="https://www.cajapaita.pe/ahorros/mass-ahorro/"><span data-hover="Mass Ahorro">Mass Ahorro</span></a></li>
+		</ul>
+</li>
+		<li id="menu-item-2887" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2887"><a href="#"><span data-hover="CTS">CTS</span></a>
+		<ul class="sub-menu">
+			<li id="menu-item-2888" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2888"><a href="https://www.cajapaita.pe/ahorros/cts-normal/"><span data-hover="Cts Normal">Cts Normal</span></a></li>
+			<li id="menu-item-2889" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2889"><a href="https://www.cajapaita.pe/ahorros/cts-pesquero/"><span data-hover="Cts Pesquero">Cts Pesquero</span></a></li>
+		</ul>
+</li>
+	</ul>
+</li>
+	<li id="menu-item-5777" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-5777"><a href="https://www.cajapaita.pe/seguros/"><span data-hover="Seguros">Seguros</span></a>
+	<ul class="sub-menu">
+		<li id="menu-item-5760" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5760"><a href="https://www.cajapaita.pe/seguros/seguro-soat/"><span data-hover="Seguro SOAT">Seguro SOAT</span></a></li>
+		<li id="menu-item-5761" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5761"><a href="https://www.cajapaita.pe/seguros/seguro-multiriesgo-asociado-al-desembolso-credito/"><span data-hover="Seguro Multiriesgo">Seguro Multiriesgo</span></a></li>
+		<li id="menu-item-5762" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5762"><a href="https://www.cajapaita.pe/seguros/seguro-sepelio-asociado-al-desembolso-credito/"><span data-hover="Seguro de Sepelio">Seguro de Sepelio</span></a></li>
+		<li id="menu-item-6368" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6368"><a href="https://www.cajapaita.pe/seguros/seguro-de-desgravamen/"><span data-hover="Seguro de Desgravamen">Seguro de Desgravamen</span></a></li>
+		<li id="menu-item-7756" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7756"><a href="https://www.cajapaita.pe/seguro-accidentes-personales/"><span data-hover="Seguro de Accidentes Personales">Seguro de Accidentes Personales</span></a></li>
+		<li id="menu-item-7758" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7758"><a href="https://www.cajapaita.pe/seguro-indemnizacion-diagnostico-cancer/"><span data-hover="Seg. Indemnización Cáncer">Seg. Indemnización Cáncer</span></a></li>
+		<li id="menu-item-8720" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8720"><a href="https://www.cajapaita.pe/seguro-desgravamen-con-devolucion/"><span data-hover="Seg. Desgravamen Devolución">Seg. Desgravamen Devolución</span></a></li>
+	</ul>
+</li>
+	<li id="menu-item-4771" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-4771"><a href="https://www.cajapaita.pe/servicios/"><span data-hover="Servicios">Servicios</span></a>
+	<ul class="sub-menu">
+		<li id="menu-item-5763" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5763"><a href="https://www.cajapaita.pe/servicios/compra-venta-moneda-extranjera/"><span data-hover="Compra y Venta de Moneda Extranjera">Compra y Venta de Moneda Extranjera</span></a></li>
+		<li id="menu-item-6269" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6269"><a href="https://www.cajapaita.pe/servicios/recaudo-de-instituciones-educativas/"><span data-hover="Recaudo de Instituciones Educativas">Recaudo de Instituciones Educativas</span></a></li>
+		<li id="menu-item-6268" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6268"><a href="https://www.cajapaita.pe/servicios/recaudacion-de-television-por-cable/"><span data-hover="Recaudación de Televisión por cable">Recaudación de Televisión por cable</span></a></li>
+		<li id="menu-item-6543" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6543"><a href="https://www.cajapaita.pe/servicios/servicios-giros-nacionales/"><span data-hover="Servicios Giros Nacionales">Servicios Giros Nacionales</span></a></li>
+		<li id="menu-item-6675" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6675"><a href="https://www.cajapaita.pe/servicios/servicios-western-union/"><span data-hover="Servicios Western Unión">Servicios Western Unión</span></a></li>
+		<li id="menu-item-7370" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7370"><a href="https://www.cajapaita.pe/servicios/agente-corresponsal-banco-la-nacion/"><span data-hover="Agente Corresponsal BN">Agente Corresponsal BN</span></a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-1929" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1929"><a href="#"><span data-hover="Agencias">Agencias</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-3097" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3097"><a href="https://www.cajapaita.pe/agencias/"><span data-hover="Agencias">Agencias</span></a></li>
+	<li id="menu-item-8932" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8932"><a href="https://www.cajapaita.pe/oficinas-eob/"><span data-hover="Oficinas EOB">Oficinas EOB</span></a></li>
+	<li id="menu-item-3129" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3129"><a href="https://www.cajapaita.pe/agencias-informativas/"><span data-hover="Oficinas informativas">Oficinas informativas</span></a></li>
+</ul>
+</li>
+<li id="menu-item-3130" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3130"><a href="https://www.cajapaita.pe/transparencia/"><span data-hover="Transparencia">Transparencia</span></a></li>
+<li id="menu-item-2179" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2179"><a href="#"><span data-hover="Simuladores">Simuladores</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-8967" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8967"><a target="_blank" href="https://www.cajapaita.pe/simuladores/#/pages/ahorros"><span data-hover="Simulador Deposito Plazo Fijo">Simulador Deposito Plazo Fijo</span></a></li>
+	<li id="menu-item-8968" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8968"><a target="_blank" href="https://www.cajapaita.pe/simuladores/#/pages/pignoraticio"><span data-hover="Simulador de Crédito Joya Plus">Simulador de Crédito Joya Plus</span></a></li>
+	<li id="menu-item-3149" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3149"><a href="https://www.cajapaita.pe/simulador-de-credito/"><span data-hover="Simulador de Credito">Simulador de Credito</span></a></li>
+</ul>
+</li>
+<li id="menu-item-7172" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7172"><a href="https://www.cajapaita.pe/formulario_creditos/"><span data-hover="¡SOLICITA TU CREDITO!">¡SOLICITA TU CREDITO!</span></a></li>
+<li id="menu-item-8444" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8444"><a href="https://www.cajapaita.pe/venta-de-inmuebles/"><span data-hover="Venta de Inmuebles">Venta de Inmuebles</span></a></li>
+<li id="menu-item-11381" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-11381"><a href="#"><span data-hover="Sostenibilidad">Sostenibilidad</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-11382" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11382"><a href="https://www.cajapaita.pe/noticias"><span data-hover="Noticias">Noticias</span></a></li>
+</ul>
+</li>
+</ul></div>            </div>
+                    </div>
+    </div>
+</nav><!-- #site-navigation -->
+    <div id="content" class="site-content">
+    <div class="container">
+        <div class="row">
+                                                                <div class="col-md-12">
+                <div class="content content-area">
+                                            <article id="post-1021">
+                            <div class="entry-content">
+                                <div data-vc-full-width="true" data-vc-full-width-init="false" data-vc-stretch-content="true" class="vc_row wpb_row vc_row-fluid vc_row-no-padding"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"><p style="font-size: 13px;color: #ffffff;text-align: center;font-family:Montserrat;font-weight:400;font-style:normal" class="vc_custom_heading vc_custom_1610640369631" >IMPORTANTE: Para cualquier trámite relacionado con cuentas de ahorros, plazo fijo o CTS, comuníquese al correo <b>ahorrospaita@cajapaita.pe</b></p></div></div></div></div><div class="vc_row-full-width vc_clearfix"></div><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper">
+			<!-- START Slider1 REVOLUTION SLIDER 6.5.21 --><p class="rs-p-wp-fix"></p>
+			<rs-module-wrap id="rev_slider_13_1_wrapper" data-source="gallery" style="visibility:hidden;background:transparent;padding:0;margin:0px auto;margin-top:0;margin-bottom:0;">
+				<rs-module id="rev_slider_13_1" style="" data-version="6.5.21">
+					<rs-slides>
+						<rs-slide style="position: absolute;" data-key="rs-237" data-title="Slide" data-in="o:0;" data-out="a:false;">
+							<img src="//www.cajapaita.pe/wp-content/plugins/revslider/public/assets/assets/dummy.png" alt="Slide" title="Principal" class="rev-slidebg tp-rs-img rs-lazyload" data-lazyload="//www.cajapaita.pe/wp-content/plugins/revslider/public/assets/assets/transparent.png" data-no-retina>
+<!--
+							--><rs-layer
+								id="slider-13-slide-237-layer-5" 
+								data-type="image"
+								data-rsp_ch="on"
+								data-xy="xo:-3px,-1px,0,0;yo:-1px,0,0,0;"
+								data-text="w:normal;s:20,10,8,6;l:0,13,11,8;"
+								data-dim="w:1918px,1022px,876px,678px;h:399px,212px,181px,140px;"
+								data-frame_999="o:0;st:w;"
+								style="z-index:5;"
+							><img src="//www.cajapaita.pe/wp-content/plugins/revslider/public/assets/assets/dummy.png" alt="" class="tp-rs-img rs-lazyload" width="1918" height="399" data-lazyload="//www.cajapaita.pe/wp-content/uploads/2026/04/BANNER-WEB-APRENDE-CON-PAYTI.jpg" data-no-retina> 
+							</rs-layer><!--
+-->						</rs-slide>
+						<rs-slide style="position: absolute;" data-key="rs-215" data-title="Slide" data-in="o:0;" data-out="a:false;">
+							<img src="//www.cajapaita.pe/wp-content/plugins/revslider/public/assets/assets/dummy.png" alt="Slide" title="Principal" class="rev-slidebg tp-rs-img rs-lazyload" data-lazyload="//www.cajapaita.pe/wp-content/plugins/revslider/public/assets/assets/transparent.png" data-no-retina>
+<!--
+							--><rs-layer
+								id="slider-13-slide-215-layer-3" 
+								data-type="image"
+								data-rsp_ch="on"
+								data-xy="yo:1px,0,0,0;"
+								data-text="w:normal;s:20,10,8,6;l:0,13,11,8;"
+								data-dim="w:1918px,1022px,876px,678px;h:399px,212px,181px,140px;"
+								data-frame_999="o:0;st:w;"
+								style="z-index:5;"
+							><img src="//www.cajapaita.pe/wp-content/plugins/revslider/public/assets/assets/dummy.png" alt="" class="tp-rs-img rs-lazyload" width="1918" height="399" data-lazyload="//www.cajapaita.pe/wp-content/uploads/2025/05/1-banner-web-plus-ahorro-mayo.jpg" data-no-retina> 
+							</rs-layer><!--
+
+							--><a
+								id="slider-13-slide-215-layer-6" 
+								class="rs-layer rev-btn"
+								href="https://www.cajapaita.pe/ahorros/plus-ahorro/" target="_blank" rel="noopener"
+								data-type="button"
+								data-rsp_ch="on"
+								data-xy="xo:681px,363px,311px,240px;yo:340px,181px,155px,120px;"
+								data-text="w:normal;s:13,6,5,4;l:37,19,16,12;fw:500;"
+								data-dim="h:37px,19px,16px,12px;minh:0,none,none,none;"
+								data-padding="r:34,18,15,12;l:34,18,15,12;"
+								data-border="bor:50px,50px,50px,50px;"
+								data-frame_999="o:0;st:w;"
+								data-frame_hover="bgc:#a31b1b;bor:50px,50px,50px,50px;sp:100;e:power1.inOut;bri:120%;"
+								style="z-index:5;background-color:#ed822a;font-family:'Roboto';"
+							>Click aquí para más info 
+							</a><!--
+-->						</rs-slide>
+						<rs-slide style="position: absolute;" data-key="rs-230" data-title="Slide" data-in="o:0;" data-out="a:false;">
+							<img src="//www.cajapaita.pe/wp-content/plugins/revslider/public/assets/assets/dummy.png" alt="Slide" title="Principal" class="rev-slidebg tp-rs-img rs-lazyload" data-lazyload="//www.cajapaita.pe/wp-content/plugins/revslider/public/assets/assets/transparent.png" data-no-retina>
+<!--
+							--><rs-layer
+								id="slider-13-slide-230-layer-10" 
+								data-type="image"
+								data-rsp_ch="on"
+								data-xy="xo:-1px,0,0,0;yo:-4px,-2px,-1px,0;"
+								data-text="w:normal;s:20,10,8,6;l:0,13,11,8;"
+								data-dim="w:1918px,1022px,876px,678px;h:399px,212px,181px,140px;"
+								data-frame_999="o:0;st:w;"
+								style="z-index:5;"
+							><img src="//www.cajapaita.pe/wp-content/plugins/revslider/public/assets/assets/dummy.png" alt="" class="tp-rs-img rs-lazyload" width="1918" height="399" data-lazyload="//www.cajapaita.pe/wp-content/uploads/2025/04/2-banner-web-mas-ahorroabril.jpg" data-no-retina> 
+							</rs-layer><!--
+
+							--><a
+								id="slider-13-slide-230-layer-11" 
+								class="rs-layer rev-btn"
+								href="https://www.cajapaita.pe/ahorros/mas-ahorro/" target="_blank" rel="noopener"
+								data-type="button"
+								data-rsp_ch="on"
+								data-xy="xo:681px,363px,311px,240px;yo:340px,181px,155px,120px;"
+								data-text="w:normal;s:13,6,5,4;l:37,19,16,12;fw:500;"
+								data-dim="h:37px,19px,16px,12px;minh:0,none,none,none;"
+								data-padding="r:34,18,15,12;l:34,18,15,12;"
+								data-border="bor:50px,50px,50px,50px;"
+								data-frame_999="o:0;st:w;"
+								data-frame_hover="bgc:#a31b1b;bor:50px,50px,50px,50px;sp:100;e:power1.inOut;bri:120%;"
+								style="z-index:5;background-color:#ed822a;font-family:'Roboto';"
+							>Click aquí para más info 
+							</a><!--
+-->						</rs-slide>
+						<rs-slide style="position: absolute;" data-key="rs-211" data-title="Slide" data-in="o:0;" data-out="a:false;">
+							<img src="//www.cajapaita.pe/wp-content/plugins/revslider/public/assets/assets/dummy.png" alt="Slide" title="Principal" class="rev-slidebg tp-rs-img rs-lazyload" data-lazyload="//www.cajapaita.pe/wp-content/plugins/revslider/public/assets/assets/transparent.png" data-no-retina>
+<!--
+							--><rs-layer
+								id="slider-13-slide-211-layer-0" 
+								data-type="image"
+								data-rsp_ch="on"
+								data-xy="yo:-5px,-2px,-1px,0;"
+								data-text="w:normal;s:20,10,8,6;l:0,13,11,8;"
+								data-dim="w:1918px,1022px,876px,678px;h:399px,212px,181px,140px;"
+								data-frame_999="o:0;st:w;"
+								style="z-index:5;"
+							><img src="//www.cajapaita.pe/wp-content/plugins/revslider/public/assets/assets/dummy.png" alt="" class="tp-rs-img rs-lazyload" width="1918" height="399" data-lazyload="//www.cajapaita.pe/wp-content/uploads/2024/05/1-saneahogar_banner-web.jpg" data-no-retina> 
+							</rs-layer><!--
+
+							--><a
+								id="slider-13-slide-211-layer-1" 
+								class="rs-layer rev-btn"
+								href="https://www.cajapaita.pe/creditos/credito-saneahogar/" target="_blank" rel="noopener"
+								data-type="button"
+								data-rsp_ch="on"
+								data-xy="xo:429px,228px,195px,151px;yo:286px,152px,130px,100px;"
+								data-text="w:normal;s:13,6,5,4;l:37,19,16,12;fw:500;"
+								data-dim="minh:0,none,none,none;"
+								data-padding="r:34,18,15,12;l:34,18,15,12;"
+								data-border="bor:50px,50px,50px,50px;"
+								data-frame_999="o:0;st:w;"
+								data-frame_hover="bgc:#a31b1b;bor:50px,50px,50px,50px;sp:100;e:power1.inOut;bri:120%;"
+								style="z-index:5;background-color:#ed822a;font-family:'Roboto';"
+							>Click aquí para más info 
+							</a><!--
+-->						</rs-slide>
+						<rs-slide style="position: absolute;" data-key="rs-197" data-title="Slide" data-in="o:0;" data-out="a:false;">
+							<img src="//www.cajapaita.pe/wp-content/plugins/revslider/public/assets/assets/dummy.png" alt="Slide" title="Principal" class="rev-slidebg tp-rs-img rs-lazyload" data-lazyload="//www.cajapaita.pe/wp-content/plugins/revslider/public/assets/assets/transparent.png" data-no-retina>
+<!--
+							--><rs-layer
+								id="slider-13-slide-197-layer-4" 
+								data-type="image"
+								data-rsp_ch="on"
+								data-xy="yo:2px,1px,0,0;"
+								data-text="w:normal;s:20,10,8,6;l:0,13,11,8;"
+								data-dim="w:1918px,1022px,876px,678px;h:399px,212px,181px,140px;"
+								data-frame_999="o:0;st:w;"
+								style="z-index:5;"
+							><img src="//www.cajapaita.pe/wp-content/plugins/revslider/public/assets/assets/dummy.png" alt="" class="tp-rs-img rs-lazyload" width="1918" height="399" data-lazyload="//www.cajapaita.pe/wp-content/uploads/2026/04/1-banner-horario-de-atencion.jpg" data-no-retina> 
+							</rs-layer><!--
+-->						</rs-slide>
+						<rs-slide style="position: absolute;" data-key="rs-198" data-title="Slide" data-in="o:0;" data-out="a:false;">
+							<img src="//www.cajapaita.pe/wp-content/plugins/revslider/public/assets/assets/dummy.png" alt="Slide" title="Principal" class="rev-slidebg tp-rs-img rs-lazyload" data-lazyload="//www.cajapaita.pe/wp-content/plugins/revslider/public/assets/assets/transparent.png" data-no-retina>
+<!--
+							--><rs-layer
+								id="slider-13-slide-198-layer-16" 
+								data-type="image"
+								data-rsp_ch="on"
+								data-xy="xo:-3px,-1px,0,0;yo:-8px,-4px,-3px,-2px;"
+								data-text="w:normal;s:20,10,8,6;l:0,13,11,8;"
+								data-dim="w:1918px,1022px,876px,678px;h:399px,212px,181px,140px;"
+								data-frame_999="o:0;st:w;"
+								style="z-index:5;"
+							><img src="//www.cajapaita.pe/wp-content/plugins/revslider/public/assets/assets/dummy.png" alt="" class="tp-rs-img rs-lazyload" width="1918" height="399" data-lazyload="//www.cajapaita.pe/wp-content/uploads/2024/04/1-banner-paga-tus-servicios.jpg" data-no-retina> 
+							</rs-layer><!--
+-->						</rs-slide>
+						<rs-slide style="position: absolute;" data-key="rs-201" data-title="Slide" data-in="o:0;" data-out="a:false;">
+							<img src="//www.cajapaita.pe/wp-content/plugins/revslider/public/assets/assets/dummy.png" alt="Slide" title="Principal" class="rev-slidebg tp-rs-img rs-lazyload" data-lazyload="//www.cajapaita.pe/wp-content/plugins/revslider/public/assets/assets/transparent.png" data-no-retina>
+<!--
+							--><rs-layer
+								id="slider-13-slide-201-layer-19" 
+								data-type="image"
+								data-rsp_ch="on"
+								data-xy="xo:-3px,-1px,0,0;yo:-4px,-2px,-1px,0;"
+								data-text="w:normal;s:20,10,8,6;l:0,13,11,8;"
+								data-dim="w:1918px,1022px,876px,678px;h:399px,212px,181px,140px;"
+								data-frame_999="o:0;st:w;"
+								style="z-index:5;"
+							><img src="//www.cajapaita.pe/wp-content/plugins/revslider/public/assets/assets/dummy.png" alt="" class="tp-rs-img rs-lazyload" width="1918" height="399" data-lazyload="//www.cajapaita.pe/wp-content/uploads/2024/04/1-banner-web-kasnet.jpg" data-no-retina> 
+							</rs-layer><!--
+-->						</rs-slide>
+						<rs-slide style="position: absolute;" data-key="rs-203" data-title="Slide" data-in="o:0;" data-out="a:false;">
+							<img src="//www.cajapaita.pe/wp-content/plugins/revslider/public/assets/assets/dummy.png" alt="Slide" title="Principal" class="rev-slidebg tp-rs-img rs-lazyload" data-lazyload="//www.cajapaita.pe/wp-content/plugins/revslider/public/assets/assets/transparent.png" data-no-retina>
+<!--
+							--><rs-layer
+								id="slider-13-slide-203-layer-21" 
+								data-type="image"
+								data-rsp_ch="on"
+								data-xy="xo:-4px,-2px,-1px,0;yo:-1px,0,0,0;"
+								data-text="w:normal;s:20,10,8,6;l:0,13,11,8;"
+								data-dim="w:1918px,1022px,876px,678px;h:399px,212px,181px,140px;"
+								data-frame_999="o:0;st:w;"
+								style="z-index:5;"
+							><img src="//www.cajapaita.pe/wp-content/plugins/revslider/public/assets/assets/dummy.png" alt="" class="tp-rs-img rs-lazyload" width="1918" height="399" data-lazyload="//www.cajapaita.pe/wp-content/uploads/2024/04/1-banner-web-peke-ahorro.jpg" data-no-retina> 
+							</rs-layer><!--
+
+							--><a
+								id="slider-13-slide-203-layer-30" 
+								class="rs-layer rev-btn"
+								href="https://www.cajapaita.pe/ahorros/peke-ahorro/" target="_blank" rel="noopener"
+								data-type="button"
+								data-rsp_ch="on"
+								data-xy="xo:637px,339px,290px,224px;yo:317px,169px,144px,111px;"
+								data-text="w:normal;s:13,6,5,4;l:37,19,16,12;fw:500;"
+								data-dim="minh:0,none,none,none;"
+								data-padding="r:34,18,15,12;l:34,18,15,12;"
+								data-border="bor:50px,50px,50px,50px;"
+								data-frame_999="o:0;st:w;"
+								data-frame_hover="bgc:#a31b1b;bor:50px,50px,50px,50px;sp:100;e:power1.inOut;bri:120%;"
+								style="z-index:5;background-color:#ed822a;font-family:'Roboto';"
+							>Click aquí para más info 
+							</a><!--
+-->						</rs-slide>
+						<rs-slide style="position: absolute;" data-key="rs-205" data-title="Slide" data-in="o:0;" data-out="a:false;">
+							<img src="//www.cajapaita.pe/wp-content/plugins/revslider/public/assets/assets/dummy.png" alt="Slide" title="Principal" class="rev-slidebg tp-rs-img rs-lazyload" data-lazyload="//www.cajapaita.pe/wp-content/plugins/revslider/public/assets/assets/transparent.png" data-no-retina>
+<!--
+							--><rs-layer
+								id="slider-13-slide-205-layer-5" 
+								data-type="image"
+								data-rsp_ch="on"
+								data-xy="xo:-3px,-1px,0,0;yo:-1px,0,0,0;"
+								data-text="w:normal;s:20,10,8,6;l:0,13,11,8;"
+								data-dim="w:1918px,1022px,876px,678px;h:399px,212px,181px,140px;"
+								data-frame_999="o:0;st:w;"
+								style="z-index:5;"
+							><img src="//www.cajapaita.pe/wp-content/plugins/revslider/public/assets/assets/dummy.png" alt="" class="tp-rs-img rs-lazyload" width="1918" height="399" data-lazyload="//www.cajapaita.pe/wp-content/uploads/2025/02/1-banner-web-seguros.jpg" data-no-retina> 
+							</rs-layer><!--
+-->						</rs-slide>
+						<rs-slide style="position: absolute;" data-key="rs-206" data-title="Slide" data-in="o:0;" data-out="a:false;">
+							<img src="//www.cajapaita.pe/wp-content/plugins/revslider/public/assets/assets/dummy.png" alt="Slide" title="Principal" class="rev-slidebg tp-rs-img rs-lazyload" data-lazyload="//www.cajapaita.pe/wp-content/plugins/revslider/public/assets/assets/transparent.png" data-no-retina>
+<!--
+							--><rs-layer
+								id="slider-13-slide-206-layer-24" 
+								data-type="image"
+								data-rsp_ch="on"
+								data-xy="xo:-2px,-1px,0,0;yo:-4px,-2px,-1px,0;"
+								data-text="w:normal;s:20,10,8,6;l:0,13,11,8;"
+								data-dim="w:1918px,1022px,876px,678px;h:399px,212px,181px,140px;"
+								data-frame_999="o:0;st:w;"
+								style="z-index:5;"
+							><img src="//www.cajapaita.pe/wp-content/plugins/revslider/public/assets/assets/dummy.png" alt="" class="tp-rs-img rs-lazyload" width="1918" height="399" data-lazyload="//www.cajapaita.pe/wp-content/uploads/2024/04/1-cambia-tus-dolares-estes-donde-estes.jpg" data-no-retina> 
+							</rs-layer><!--
+-->						</rs-slide>
+						<rs-slide style="position: absolute;" data-key="rs-207" data-title="Slide" data-in="o:0;" data-out="a:false;">
+							<img src="//www.cajapaita.pe/wp-content/plugins/revslider/public/assets/assets/dummy.png" alt="Slide" title="Principal" class="rev-slidebg tp-rs-img rs-lazyload" data-lazyload="//www.cajapaita.pe/wp-content/plugins/revslider/public/assets/assets/transparent.png" data-no-retina>
+<!--
+							--><rs-layer
+								id="slider-13-slide-207-layer-25" 
+								data-type="image"
+								data-rsp_ch="on"
+								data-xy="xo:-4px,-2px,-1px,0;yo:-3px,-1px,0,0;"
+								data-text="w:normal;s:20,10,8,6;l:0,13,11,8;"
+								data-dim="w:1918px,1022px,876px,678px;h:399px,212px,181px,140px;"
+								data-frame_999="o:0;st:w;"
+								style="z-index:5;"
+							><img src="//www.cajapaita.pe/wp-content/plugins/revslider/public/assets/assets/dummy.png" alt="" class="tp-rs-img rs-lazyload" width="1918" height="399" data-lazyload="//www.cajapaita.pe/wp-content/uploads/2024/04/1-metodos-de-pago-flyer-banner-web.jpg" data-no-retina> 
+							</rs-layer><!--
+-->						</rs-slide>
+						<rs-slide style="position: absolute;" data-key="rs-209" data-title="Slide" data-in="o:0;" data-out="a:false;">
+							<img src="//www.cajapaita.pe/wp-content/plugins/revslider/public/assets/assets/dummy.png" alt="Slide" title="Principal" class="rev-slidebg tp-rs-img rs-lazyload" data-lazyload="//www.cajapaita.pe/wp-content/plugins/revslider/public/assets/assets/transparent.png" data-no-retina>
+<!--
+							--><rs-layer
+								id="slider-13-slide-209-layer-27" 
+								data-type="image"
+								data-rsp_ch="on"
+								data-xy="xo:-28px,-14px,-12px,-9px;yo:-11px,-5px,-4px,-3px;"
+								data-text="w:normal;s:20,10,8,6;l:0,13,11,8;"
+								data-dim="w:1918px,1022px,876px,678px;h:399px,212px,181px,140px;"
+								data-frame_999="o:0;st:w;"
+								style="z-index:5;"
+							><img src="//www.cajapaita.pe/wp-content/plugins/revslider/public/assets/assets/dummy.png" alt="" class="tp-rs-img rs-lazyload" width="1918" height="399" data-lazyload="//www.cajapaita.pe/wp-content/uploads/2024/04/1-deja-tus-ahorros-con-nosotros.jpg" data-no-retina> 
+							</rs-layer><!--
+-->						</rs-slide>
+						<rs-slide style="position: absolute;" data-key="rs-210" data-title="Slide" data-in="o:0;" data-out="a:false;">
+							<img src="//www.cajapaita.pe/wp-content/plugins/revslider/public/assets/assets/dummy.png" alt="Slide" title="Principal" class="rev-slidebg tp-rs-img rs-lazyload" data-lazyload="//www.cajapaita.pe/wp-content/plugins/revslider/public/assets/assets/transparent.png" data-no-retina>
+<!--
+							--><rs-layer
+								id="slider-13-slide-210-layer-16" 
+								data-type="image"
+								data-rsp_ch="on"
+								data-xy="xo:-3px,-1px,0,0;yo:-8px,-4px,-3px,-2px;"
+								data-text="w:normal;s:20,10,8,6;l:0,13,11,8;"
+								data-dim="w:1918px,1022px,876px,678px;h:399px,212px,181px,140px;"
+								data-frame_999="o:0;st:w;"
+								style="z-index:5;"
+							><img src="//www.cajapaita.pe/wp-content/plugins/revslider/public/assets/assets/dummy.png" alt="" class="tp-rs-img rs-lazyload" width="1918" height="399" data-lazyload="//www.cajapaita.pe/wp-content/uploads/2024/04/1-banner-paga-tus-servicios.jpg" data-no-retina> 
+							</rs-layer><!--
+-->						</rs-slide>
+					</rs-slides>
+				</rs-module>
+				<script>
+					setREVStartSize({c: 'rev_slider_13_1',rl:[1240,1024,778,480],el:[400,300,250,210],gw:[1920,1024,878,680],gh:[400,300,250,210],type:'standard',justify:'',layout:'fullwidth',mh:"0"});if (window.RS_MODULES!==undefined && window.RS_MODULES.modules!==undefined && window.RS_MODULES.modules["revslider131"]!==undefined) {window.RS_MODULES.modules["revslider131"].once = false;window.revapi13 = undefined;if (window.RS_MODULES.checkMinimal!==undefined) window.RS_MODULES.checkMinimal()}
+				</script>
+			</rs-module-wrap>
+			<!-- END REVOLUTION SLIDER -->
+</div></div></div></div><div data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid vc_custom_1484691750724 vc_row-o-content-middle vc_row-flex"><div class="wpb_column vc_column_container vc_col-sm-2"><div class="vc_column-inner"><div class="wpb_wrapper">
+	<div class="wpb_raw_code wpb_content_element wpb_raw_html" >
+		<div class="wpb_wrapper">
+			<meta name="viewport" content="width=device-width, 
+
+initial-scale=1.0">         
+ <link rel="stylesheet" type="text/css" href="wp-content/ihover/css/default.css" /> <script  src="https://use.fontawesome.com/7bf2d4be67.js"></script> 
+ 
+<div class="wpb_wrapper" style:"padding: 0 0 0 0;">
+		<div class="tm-home-contact">
+             
+          
+               	<div class="hi-icon-wrap hi-icon-effect-1 hi-icon-effect-1a">
+                <a href="https://www.cajapaita.pe/formulario_creditos/">
+                          <img class="alignnone size-full wp-image-9286" src="https://www.cajapaita.pe/wp-content/uploads/2025/02/iconos-pagina-web.png" alt="" width="100" height="100" />
+                 	<!-- <i class='hi-icon fa  fa-money '></i>--> </a> 
+		        </div>		 
+		          <a href="https://www.cajapaita.pe/formulario_creditos/"> <p style="color:#ce0a0a; margin:-1.5% 0;" " ALIGN=center><span><b></b></span></p>
+                  <p style="color:#ce0a0a;" ALIGN=center><span class="tm-home-contact-big">Solicita un Crédito Aquí</span></p></a>
+          
+		</div>
+		</div>
+		</div>
+	</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-2"><div class="vc_column-inner"><div class="wpb_wrapper">
+	<div class="wpb_raw_code wpb_content_element wpb_raw_html" >
+		<div class="wpb_wrapper">
+			<meta name="viewport" content="width=device-width, 
+
+initial-scale=1.0">         
+ <link rel="stylesheet" type="text/css" 
+
+href="wp-content/ihover/css/default.css" />
+		<script 
+
+src="https://use.fontawesome.com/7bf2d4be67.js"></script>
+ 
+<div class="wpb_wrapper" style:"padding: 0 0 0 0;">
+		<div class="tm-home-contact">
+             
+          
+               	<div class="hi-icon-wrap hi-icon-effect-1 hi-icon-effect-1a">
+                <a href="https://www.cajapaita.pe/creditos/">
+                 	<i class='hi-icon fa  fa-dollar '></i></a>
+		        </div>		 
+		          <a href="https://www.cajapaita.pe/creditos/"> <p style="color:#ce0a0a; margin:-1.5% 0;" " ALIGN=center><span><b></b></span></p>
+                  <p style="color:#ce0a0a;" ALIGN=center><span class="tm-home-contact-big">Productos de Créditos</span></p></a>
+          
+		</div>
+		</div>
+		</div>
+	</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-2"><div class="vc_column-inner"><div class="wpb_wrapper">
+	<div class="wpb_raw_code wpb_content_element wpb_raw_html" >
+		<div class="wpb_wrapper">
+			<meta name="viewport" content="width=device-width, 
+
+initial-scale=1.0">         
+
+		<!--script 
+
+src="https://use.fontawesome.com/7bf2d4be67.js"></script-->	    
+ <div class="wpb_wrapper">
+		<div class="tm-home-contact">
+             
+          
+               	<div class=" hi-icon-wrap hi-icon-effect-1 hi-icon-effect-1a">
+                
+                 	<a href="https://www.cajapaita.pe/ahorros/"><i class='hi-icon fa  fa-line-chart '></i></a>
+		        </div>
+		         <a href="https://www.cajapaita.pe/ahorros/"> <p style="color:#ce0a0a; margin:-1.5% 0;" " ALIGN=center><span><b></b></span></p>
+                  <p style="color:#ce0a0a; " ALIGN=center><span class="tm-home-contact-big">Productos de Ahorro</span></p></a>
+   
+		</div>
+		</div>
+		</div>
+	</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-2"><div class="vc_column-inner"><div class="wpb_wrapper">
+	<div class="wpb_raw_code wpb_content_element wpb_raw_html" >
+		<div class="wpb_wrapper">
+			<meta name="viewport" content="width=device-width, 
+
+initial-scale=1.0">         
+
+		<!--script 
+
+src="https://use.fontawesome.com/7bf2d4be67.js"></script-->
+
+
+
+<div class="wpb_wrapper" style:"padding: 0 0 0 0;">
+
+<div class="tm-home-contact">
+             
+               	<div class="hi-icon-wrap hi-icon-effect-1 hi-icon-effect-1a">
+                
+                 	<a href = "https://www.cajapaita.pe/servicios/" ><i class='hi-icon fa  fa-handshake-o'><!--<a href="#"></a>--></i></a>
+		        </div>
+		          <a href = "https://www.cajapaita.pe/servicios/" ><p style="color:#ce0a0a; margin:-1.5% 0;" ALIGN=center><span><b></b></span></p>
+                  <p style="color:#ce0a0a;" ALIGN=center><span class="tm-home-contact-big">Servicios</span></p></a>
+ 
+		</div></div>
+		</div>
+	</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-2"><div class="vc_column-inner"><div class="wpb_wrapper">
+	<div class="wpb_raw_code wpb_content_element wpb_raw_html" >
+		<div class="wpb_wrapper">
+			<meta name="viewport" content="width=device-width, 
+
+initial-scale=1.0">         
+
+		<!--script 
+
+src="https://use.fontawesome.com/7bf2d4be67.js"></script-->
+ <div class="wpb_wrapper">
+		<div class="tm-home-contact">
+             
+        
+               	<div class=" hi-icon-wrap hi-icon-effect-1 hi-icon-effect-1a">
+                
+                 	<a href = "https://www.cajapaita.pe/seguros/" ><i class='hi-icon fa  fa-expeditedssl '><!--<a href="#"></a>--></i></a>
+		        </div>
+		          <a href = "https://www.cajapaita.pe/seguros/" ><p style="color:#ce0a0a; margin:-1.5% 0;" " ALIGN=center><span><b></b></span></p>
+                  <p style="color:#ce0a0a;" ALIGN=center><span class="tm-home-contact-big">Seguros</span></p></a>
+        
+		</div>
+		</div>
+		</div>
+	</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-2"><div class="vc_column-inner"><div class="wpb_wrapper">
+	<div class="wpb_raw_code wpb_content_element wpb_raw_html" >
+		<div class="wpb_wrapper">
+			<meta name="viewport" content="width=device-width, 
+
+initial-scale=1.0">         
+
+		<!--script 
+
+src="https://use.fontawesome.com/7bf2d4be67.js"></script-->
+<div class="wpb_wrapper" style:"padding: 0 0 0 0;">
+		<div class="tm-home-contact" style="margin-top:18px;">            
+        
+               	<div class=" hi-icon-wrap hi-icon-effect-1 hi-icon-effect-1a">
+                
+                 	<a href = "https://aprendeconpayti.cajapaita.pe/" >
+					<img class="alignnone size-full wp-image-9286" src="https://www.cajapaita.pe/wp-content/uploads/2026/04/payti-logo.png" alt="" width="86" height="86"/>
+					<!-- <i class='hi-icon fa  fa-expeditedssl '><a href="#"></a></i>--> </a>
+		        </div>
+		          <a href = "https://aprendeconpayti.cajapaita.pe/" ><p style="color:#ce0a0a; margin-top:8px;" " ALIGN=center><span><b></b></span></p>
+                  <p style="color:#ce0a0a;" ALIGN=center><span class="tm-home-contact-big">Capacítate con nosotros</span></p></a>
+        
+		</div>
+		</div>
+		</div>
+	</div>
+</div></div></div></div><div class="vc_row-full-width vc_clearfix"></div><div data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid vc_custom_1495593977622 vc_row-has-fill"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner vc_custom_1482820476334"><div class="wpb_wrapper"><h2 style="font-size: 34px;color: #000000;line-height: 1em;text-align: center" class="vc_custom_heading vc_custom_1509495094927" >Noticias</h2>    <div class="newsupdate newsupdate-type2 ">
+        <div class="row">                <div class="newsupdate-item col-lg-6 col-md-6">
+                    <div class="newsupdate-item-inner">
+                        <div class="newsupdate-thumb">
+                            <img width="270" height="230" src="https://www.cajapaita.pe/wp-content/uploads/2025/02/sci-portada-noticia2025-270x230.jpg" class="attachment-270x230 size-270x230 wp-post-image" alt="" loading="lazy" />                            <span class="newsupdate-date primary_bgcolor">04                                <br/>Feb</span>
+                        </div>
+                        <div class="newsupdate-content">
+                            <span class="newsupdate-title"><a href="https://www.cajapaita.pe/alcanzando-metas/" rel="bookmark">Alcanzando Metas</a></span>                            <span class="newsupdate-excerpt">
+															</span>
+                            <span class="newsupdate-more">
+									<a class="primary_color"
+                                       href="https://www.cajapaita.pe/alcanzando-metas/">Leer Más</a>
+								</span>
+                        </div>
+                    </div>
+                </div>
+                                <div class="newsupdate-item col-lg-6 col-md-6">
+                    <div class="newsupdate-item-inner">
+                        <div class="newsupdate-thumb">
+                            <img width="230" height="230" src="https://www.cajapaita.pe/wp-content/uploads/2024/10/una-caja-en-crecimiento-1-e1728317621393.png" class="attachment-270x230 size-270x230 wp-post-image" alt="" loading="lazy" srcset="https://www.cajapaita.pe/wp-content/uploads/2024/10/una-caja-en-crecimiento-1-e1728317621393.png 230w, https://www.cajapaita.pe/wp-content/uploads/2024/10/una-caja-en-crecimiento-1-e1728317621393-150x150.png 150w, https://www.cajapaita.pe/wp-content/uploads/2024/10/una-caja-en-crecimiento-1-e1728317621393-100x100.png 100w" sizes="(max-width: 230px) 100vw, 230px" />                            <span class="newsupdate-date primary_bgcolor">12                                <br/>Abr</span>
+                        </div>
+                        <div class="newsupdate-content">
+                            <span class="newsupdate-title"><a href="https://www.cajapaita.pe/caja-paita-mejora-dos-niveles-de-su-calificacion-de-riesgos-en-los-ultimos-dos-anos/" rel="bookmark">Caja Paita Mejora dos niveles de su calificación de riesgos en los últimos dos años</a></span>                            <span class="newsupdate-excerpt">
+								Han sido diversos factores que han contribuido a que Caja Paita mejore en los últimos años dos...							</span>
+                            <span class="newsupdate-more">
+									<a class="primary_color"
+                                       href="https://www.cajapaita.pe/caja-paita-mejora-dos-niveles-de-su-calificacion-de-riesgos-en-los-ultimos-dos-anos/">Leer Más</a>
+								</span>
+                        </div>
+                    </div>
+                </div>
+                </div>    </div>
+    </div></div></div></div><div class="vc_row-full-width vc_clearfix"></div><div data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid primary_bgcolor bg-gradient vc_custom_1682435602149 vc_row-has-fill"><div class="wpb_column vc_column_container vc_col-sm-8"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="vc_row wpb_row vc_inner vc_row-fluid vc_custom_1482884709693"><div class="wpb_column vc_column_container vc_col-sm-1/5"><div class="vc_column-inner"><div class="wpb_wrapper">
+	<div class="wpb_raw_code wpb_content_element wpb_raw_html" >
+		<div class="wpb_wrapper">
+			<div class="tm-home-contact">
+<div class="tm-home-contact-left" id="fondo">
+<a style="color:#FFFFFF;" href="#">
+<span class="tm-home-contact-icon pe-7s-culture"></span></a>
+</div>
+<div class="tm-home-contact-right">
+<span class="tm-home-contact-small">Fondo de Seguro de Depósito</span>
+<span class="tm-home-contact-big">S/122,000</span>
+</div>
+</div>
+		</div>
+	</div>
+<div id="modal-trg-txt-wrap-8434" class="ult-modal-input-wrapper ult-adjust-bottom-margin    " data-keypress-control="keypress-control-enable" data-overlay-control="overlay-control-enable"><span data-class-id="content-6a3787d3611442-56871871"></span>
+				<script type="text/javascript">
+				(function($){
+					$(document).ready(function(){
+						var selector = "#fondo";
+						$(selector).addClass("custom-ult-modal overlay-show");
+						$(selector).attr("data-class-id", "content-6a3787d3611442-56871871");
+						$(selector).attr("data-overlay-class", "overlay-cornerbottomright");
+						$(selector).attr("data-keypress-control", "keypress-control-enable");
+						$(selector).attr("data-overlay-control", "overlay-control-enable");
+					});
+				})(jQuery);
+				</script></div>
+<div class="ult-overlay content-6a3787d3611442-56871871 " data-class="content-6a3787d3611442-56871871" id="button-click-overlay" style="background:rgba(51,51,51,0.8); display:none;">
+	<div class="ult_modal ult-fade ult-block">
+		<div id="ult-modal-wrap-4163" class="ult_modal-content ult-hide" style="border-style:solid;border-width:2px;border-radius:0px;border-color:#333333;">
+			<div class="ult_modal-header" style="color:#333333;border-color:#333333;">
+				<h3  data-ultimate-target='#ult-modal-wrap-4163 .ult_modal-title'  data-responsive-json-new='{"font-size":"","line-height":""}'  class="ult_modal-title ult-responsive">FONDO DE SEGURO DE DEPÓSITO</h3>
+			</div>
+			<div  data-ultimate-target='#ult-modal-wrap-4163 .ult_modal-body'  data-responsive-json-new='{"font-size":"","line-height":""}'  class="ult_modal-body ult-responsive ult-html" style="">
+			<img class="alignnone wp-image-11177" src="https://www.cajapaita.pe/wp-content/uploads/2026/06/fondo-de-seguro-de-depositos.jpg.jpeg" alt="" width="562" height="513" />
+			</div>
+	</div>
+	</div>
+	<div class="ult-overlay-close top-right" style="width:80px;height:80px; "><div class="ult-overlay-close-inside">Close</div></div>
+</div>
+	<div class="wpb_raw_code wpb_content_element wpb_raw_html" >
+		<div class="wpb_wrapper">
+			<!-- Messenger plugin de chat Code -->
+    <div id="fb-root"></div>
+      <script>
+        window.fbAsyncInit = function() {
+          FB.init({
+            xfbml            : true,
+            version          : 'v10.0'
+          });
+        };
+
+        (function(d, s, id) {
+          var js, fjs = d.getElementsByTagName(s)[0];
+          if (d.getElementById(id)) return;
+          js = d.createElement(s); js.id = id;
+          js.src = 'https://connect.facebook.net/es_LA/sdk/xfbml.customerchat.js';
+          fjs.parentNode.insertBefore(js, fjs);
+        }(document, 'script', 'facebook-jssdk'));
+      </script>
+
+      <!-- Your plugin de chat code -->
+      <div class="fb-customerchat"
+        attribution="biz_inbox"
+        page_id="259337700845482">
+      </div>
+		</div>
+	</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-1/5"><div class="vc_column-inner"><div class="wpb_wrapper">
+	<div class="wpb_raw_code wpb_content_element wpb_raw_html" >
+		<div class="wpb_wrapper">
+			<div class="tm-home-contact">
+<div class="tm-home-contact-left">
+<a style="color:#FFFFFF;" href="https://www.cajapaita.pe/wp-content/files/doc_transparencia/atcliente/proc/Datos%20Personales_V.2.pdf" target="_blank">
+<span class="tm-home-contact-icon pe-7s-user"></span></a>
+</div>
+<div class="tm-home-contact-right">
+<span class="tm-home-contact-small">Protección de Datos</span>
+<span class="tm-home-contact-big">Personales</span>
+</div>
+</div>
+		</div>
+	</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-1/5"><div class="vc_column-inner"><div class="wpb_wrapper">
+	<div class="wpb_raw_code wpb_content_element wpb_raw_html" >
+		<div class="wpb_wrapper">
+			<div class="tm-home-contact">
+<div class="tm-home-contact-left">
+<a style="color:#FFFFFF;" href="/portal/recomendaciones-de-seguridad/">
+<span class="tm-home-contact-icon  pe-7s-note"></span></a>
+</div>
+<div class="tm-home-contact-right">
+<span class="tm-home-contact-small">Recomendaciones </span>
+<span class="tm-home-contact-big">de Seguridad</span>
+</div>
+</div>
+		</div>
+	</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-1/5"><div class="vc_column-inner"><div class="wpb_wrapper">
+	<div class="wpb_raw_code wpb_content_element wpb_raw_html" >
+		<div class="wpb_wrapper">
+			<div class="tm-home-contact">
+<div class="tm-home-contact-left">
+<a style="color:#FFFFFF;" href="https://www.cajapaita.pe/contactenos/">
+<span class="tm-home-contact-icon  pe-7s-chat"></span></a>
+</div>
+<div class="tm-home-contact-right">
+<span class="tm-home-contact-small">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>
+<span class="tm-home-contact-big">Sugerencias</span>
+</div>
+</div>
+		</div>
+	</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-1/5"><div class="vc_column-inner"><div class="wpb_wrapper">
+	<div class="wpb_raw_code wpb_content_element wpb_raw_html" >
+		<div class="wpb_wrapper">
+			<div class="tm-home-contact">
+<div class="tm-home-contact-left" id="denunciass">
+<a style="color:#FFFFFF;" href="https://www.cajapaita.pe/denuncias">
+<span class="tm-home-contact-icon pe-7s-speaker"></span></a>
+</div>
+<div class="tm-home-contact-right">
+<span class="tm-home-contact-small">Canal de </span>
+<span class="tm-home-contact-big">Denuncias</span>
+</div>
+</div>
+		</div>
+	</div>
+</div></div></div></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="vc_row wpb_row vc_inner vc_row-fluid vc_custom_1482884709693"><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner"><div class="wpb_wrapper">
+	<div class="wpb_raw_code wpb_content_element wpb_raw_html" >
+		<div class="wpb_wrapper">
+			<div class="tm-home-contact">
+<div class="tm-home-contact-left" id="denunciass">
+<a style="color:#FFFFFF;" href="https://www.cajapaita.pe/libro-de-reclamaciones">
+<span class="tm-home-contact-icon pe-7s-bookmarks"></span></a>
+</div>
+<div class="tm-home-contact-right">
+<span class="tm-home-contact-small">Libro de  </span>
+<span class="tm-home-contact-big">Reclamaciones</span>
+</div>
+</div>
+		</div>
+	</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner"><div class="wpb_wrapper">
+	<div class="wpb_raw_code wpb_content_element wpb_raw_html" >
+		<div class="wpb_wrapper">
+			<div class="tm-home-contact">
+<div class="tm-home-contact-left" id="denunciass">
+<a style="color:#FFFFFF;" href="https://www.cajapaita.pe/requerimientos/">
+<span class="tm-home-contact-icon pe-7s-note2"></span></a>
+</div>
+<div class="tm-home-contact-right">
+<span class="tm-home-contact-big">Requerimientos</span>
+</div>
+</div>
+		</div>
+	</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner"><div class="wpb_wrapper">
+	<div class="wpb_raw_code wpb_content_element wpb_raw_html" >
+		<div class="wpb_wrapper">
+			<div class="tm-home-contact">
+<div class="tm-home-contact-left" id="creditos">
+<a style="color:#FFFFFF;" href="https://www.cajapaita.pe/formulario_creditos/">
+<span class="tm-home-contact-icon pe-7s-cash"></span></a>
+</div>
+<div class="tm-home-contact-right">
+<span class="tm-home-contact-small">Solicita tu  </span>
+<span class="tm-home-contact-big">Crédito</span>
+</div>
+</div>
+		</div>
+	</div>
+</div></div></div></div></div></div></div></div><div class="vc_row-full-width vc_clearfix"></div><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="vc_row wpb_row vc_inner vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-1/5"><div class="vc_column-inner"><div class="wpb_wrapper">
+	<div  class="wpb_single_image wpb_content_element vc_align_center  wpb_animate_when_almost_visible wpb_appear appear vc_custom_1591467553693  img_opacity_70 img_height_60">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<a href="https://www.sbs.gob.pe/usuarios/" target="_blank" class="vc_single_image-wrapper   vc_box_border_grey"><img width="465" height="119" src="https://www.cajapaita.pe/wp-content/uploads/2016/03/SBS.jpg" class="vc_single_image-img attachment-full" alt="" loading="lazy" title="SBS" srcset="https://www.cajapaita.pe/wp-content/uploads/2016/03/SBS.jpg 465w, https://www.cajapaita.pe/wp-content/uploads/2016/03/SBS-300x77.jpg 300w" sizes="(max-width: 465px) 100vw, 465px" /></a>
+		</figure>
+	</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-1/5"><div class="vc_column-inner"><div class="wpb_wrapper">
+	<div  class="wpb_single_image wpb_content_element vc_align_center  wpb_animate_when_almost_visible wpb_appear appear vc_custom_1485232556640  img_opacity_70 img_height_60">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<a href="http://www.sunat.gob.pe/" target="_self" class="vc_single_image-wrapper   vc_box_border_grey"><img width="128" height="80" src="https://www.cajapaita.pe/wp-content/uploads/2016/03/sunat.png" class="vc_single_image-img attachment-full" alt="" loading="lazy" title="sunat" /></a>
+		</figure>
+	</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-1/5"><div class="vc_column-inner"><div class="wpb_wrapper">
+	<div  class="wpb_single_image wpb_content_element vc_align_center  wpb_animate_when_almost_visible wpb_appear appear vc_custom_1485233478357  img_opacity_70 img_height_60">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<a href="http://www.bcrp.gob.pe/" target="_self" class="vc_single_image-wrapper   vc_box_border_grey"><img width="465" height="119" src="https://www.cajapaita.pe/wp-content/uploads/2016/03/bcrp1.png" class="vc_single_image-img attachment-full" alt="" loading="lazy" title="bcrp1" srcset="https://www.cajapaita.pe/wp-content/uploads/2016/03/bcrp1.png 465w, https://www.cajapaita.pe/wp-content/uploads/2016/03/bcrp1-300x77.png 300w" sizes="(max-width: 465px) 100vw, 465px" /></a>
+		</figure>
+	</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-1/5"><div class="vc_column-inner"><div class="wpb_wrapper"><div id="modal-trg-txt-wrap-2497" class="ult-modal-input-wrapper ult-adjust-bottom-margin    " data-keypress-control="keypress-control-enable" data-overlay-control="overlay-control-enable"><div data-class-id="content-6a3787d3648841-98885019" class="ult-onload overlay-show " data-overlay-class="overlay-cornerbottomleft" data-onload-delay="0"></div></div>
+<div class="ult-overlay content-6a3787d3648841-98885019 " data-class="content-6a3787d3648841-98885019" id="button-click-overlay" style="background:rgba(51,51,51,0.8); display:none;">
+	<div class="ult_modal ult-fade ult-small">
+		<div id="ult-modal-wrap-7121" class="ult_modal-content ult-hide" style="border-style:solid;border-width:2px;border-radius:0px;border-color:#333333;">
+			<div class="ult_modal-header" style="color:#333333;border-color:#333333;">
+				<h3  data-ultimate-target='#ult-modal-wrap-7121 .ult_modal-title'  data-responsive-json-new='{"font-size":"","line-height":""}'  class="ult_modal-title ult-responsive">CANALES DE PAGO DE CREDITOS</h3>
+			</div>
+			<div  data-ultimate-target='#ult-modal-wrap-7121 .ult_modal-body'  data-responsive-json-new='{"font-size":"","line-height":""}'  class="ult_modal-body ult-responsive ult-html" style="">
+			<img loading="lazy" class="alignnone size-full wp-image-9286" src="https://www.cajapaita.pe/wp-content/uploads/2023/11/metodos-de-pago-flyer-vent-emerg.png" alt="" width="750" height="750" />
+			</div>
+	</div>
+	</div>
+	<div class="ult-overlay-close top-right" style="width:80px;height:80px; "><div class="ult-overlay-close-inside">Close</div></div>
+</div><div id="modal-trg-txt-wrap-5447" class="ult-modal-input-wrapper ult-adjust-bottom-margin    " data-keypress-control="keypress-control-enable" data-overlay-control="overlay-control-enable"><div data-class-id="content-6a3787d3648d98-16632782" class="ult-onload overlay-show " data-overlay-class="overlay-cornerbottomleft" data-onload-delay="0"></div></div>
+<div class="ult-overlay content-6a3787d3648d98-16632782 " data-class="content-6a3787d3648d98-16632782" id="button-click-overlay" style="background:rgba(51,51,51,0.8); display:none;">
+	<div class="ult_modal ult-fade ult-small">
+		<div id="ult-modal-wrap-1365" class="ult_modal-content ult-hide" style="border-style:solid;border-width:2px;border-radius:0px;border-color:#333333;">
+			<div class="ult_modal-header" style="color:#333333;border-color:#333333;">
+				<h3  data-ultimate-target='#ult-modal-wrap-1365 .ult_modal-title'  data-responsive-json-new='{"font-size":"","line-height":""}'  class="ult_modal-title ult-responsive">BIENES ADJUDICADOS DE LA CMAC PAITA S.A</h3>
+			</div>
+			<div  data-ultimate-target='#ult-modal-wrap-1365 .ult_modal-body'  data-responsive-json-new='{"font-size":"","line-height":""}'  class="ult_modal-body ult-responsive ult-html" style="">
+			<img loading="lazy" class="alignnone size-full wp-image-9286" src="https://www.cajapaita.pe/wp-content/uploads/2026/03/flyer-emergente-pagina-web.png" alt="" width="750" height="750" />
+			</div>
+	</div>
+	</div>
+	<div class="ult-overlay-close top-right" style="width:80px;height:80px; "><div class="ult-overlay-close-inside">Close</div></div>
+</div><div id="modal-trg-txt-wrap-8820" class="ult-modal-input-wrapper ult-adjust-bottom-margin    " data-keypress-control="keypress-control-enable" data-overlay-control="overlay-control-enable"><div data-class-id="content-6a3787d36491e4-12074528" class="ult-onload overlay-show " data-overlay-class="overlay-cornerbottomleft" data-onload-delay="0"></div></div>
+<div class="ult-overlay content-6a3787d36491e4-12074528 " data-class="content-6a3787d36491e4-12074528" id="button-click-overlay" style="background:rgba(51,51,51,0.8); display:none;">
+	<div class="ult_modal ult-fade ult-small">
+		<div id="ult-modal-wrap-6463" class="ult_modal-content ult-hide" style="border-style:solid;border-width:2px;border-radius:0px;border-color:#333333;">
+			<div class="ult_modal-header" style="color:#333333;border-color:#333333;">
+				<h3  data-ultimate-target='#ult-modal-wrap-6463 .ult_modal-title'  data-responsive-json-new='{"font-size":"","line-height":""}'  class="ult_modal-title ult-responsive">CANAL DE DENUNCIAS</h3>
+			</div>
+			<div  data-ultimate-target='#ult-modal-wrap-6463 .ult_modal-body'  data-responsive-json-new='{"font-size":"","line-height":""}'  class="ult_modal-body ult-responsive ult-html" style="">
+			<img loading="lazy" class="alignnone size-full wp-image-9286" src="https://www.cajapaita.pe/wp-content/uploads/2024/10/canal-de-denuncias.jpg" alt="" width="750" height="750" />
+			</div>
+	</div>
+	</div>
+	<div class="ult-overlay-close top-right" style="width:80px;height:80px; "><div class="ult-overlay-close-inside">Close</div></div>
+</div><div id="modal-trg-txt-wrap-3748" class="ult-modal-input-wrapper ult-adjust-bottom-margin    " data-keypress-control="keypress-control-enable" data-overlay-control="overlay-control-enable"><div data-class-id="content-6a3787d3649609-55563425" class="ult-onload overlay-show " data-overlay-class="overlay-cornerbottomleft" data-onload-delay="0"></div></div>
+<div class="ult-overlay content-6a3787d3649609-55563425 " data-class="content-6a3787d3649609-55563425" id="button-click-overlay" style="background:rgba(51,51,51,0.8); display:none;">
+	<div class="ult_modal ult-fade ult-small">
+		<div id="ult-modal-wrap-4548" class="ult_modal-content ult-hide" style="border-style:solid;border-width:2px;border-radius:0px;border-color:#333333;">
+			<div class="ult_modal-header" style="color:#333333;border-color:#333333;">
+				<h3  data-ultimate-target='#ult-modal-wrap-4548 .ult_modal-title'  data-responsive-json-new='{"font-size":"","line-height":""}'  class="ult_modal-title ult-responsive">COMUNICADO LIBERACION CTS</h3>
+			</div>
+			<div  data-ultimate-target='#ult-modal-wrap-4548 .ult_modal-body'  data-responsive-json-new='{"font-size":"","line-height":""}'  class="ult_modal-body ult-responsive ult-html" style="">
+			<img loading="lazy" class="alignnone size-full wp-image-9286" src="https://www.cajapaita.pe/wp-content/uploads/2025/05/disposicion-de-cts.png" alt="" width="750" height="750" />
+			</div>
+	</div>
+	</div>
+	<div class="ult-overlay-close top-right" style="width:80px;height:80px; "><div class="ult-overlay-close-inside">Close</div></div>
+</div><div id="modal-trg-txt-wrap-5713" class="ult-modal-input-wrapper ult-adjust-bottom-margin    " data-keypress-control="keypress-control-enable" data-overlay-control="overlay-control-enable"><div data-class-id="content-6a3787d3649a06-59140531" class="ult-onload overlay-show " data-overlay-class="overlay-cornerbottomleft" data-onload-delay="0"></div></div>
+<div class="ult-overlay content-6a3787d3649a06-59140531 " data-class="content-6a3787d3649a06-59140531" id="button-click-overlay" style="background:rgba(51,51,51,0.8); display:none;">
+	<div class="ult_modal ult-fade ult-small">
+		<div id="ult-modal-wrap-3744" class="ult_modal-content ult-hide" style="border-style:solid;border-width:2px;border-radius:0px;border-color:#333333;">
+			<div class="ult_modal-header" style="color:#333333;border-color:#333333;">
+				<h3  data-ultimate-target='#ult-modal-wrap-3744 .ult_modal-title'  data-responsive-json-new='{"font-size":"","line-height":""}'  class="ult_modal-title ult-responsive">COMUNICADO UTILIDADES</h3>
+			</div>
+			<div  data-ultimate-target='#ult-modal-wrap-3744 .ult_modal-body'  data-responsive-json-new='{"font-size":"","line-height":""}'  class="ult_modal-body ult-responsive ult-html" style="">
+			<img loading="lazy" class="alignnone size-full wp-image-9286" src="https://www.cajapaita.pe/wp-content/uploads/2026/03/comunicado-utilidades-marzo.jpg" alt="" width="750" height="750" />
+			</div>
+	</div>
+	</div>
+	<div class="ult-overlay-close top-right" style="width:80px;height:80px; "><div class="ult-overlay-close-inside">Close</div></div>
+</div></div></div></div></div></div></div></div></div><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper">
+	<div class="wpb_raw_code wpb_raw_js" >
+		<div class="wpb_wrapper">
+			<script type="text/javascript">
+function isIE () {
+  var myNav = navigator.userAgent.toLowerCase();
+  return (myNav.indexOf('msie') != -1) ? parseInt(myNav.split('msie')[1]) : false;
+}
+if (isIE () == 9) {
+alert("“Se está usando una versión obsoleta del navegador. Por favor actualice su navegador para una mejor experiencia. Si desea actualizar su navegador haga clic AQUI o utilice otro navegador como CHROME o FIREFOX.”");
+location.href="https://support.microsoft.com/es-es/help/17621/internet-explorer-downloads";
+} 
+
+</script>
+		</div>
+	</div>
+</div></div></div></div><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner"><div class="wpb_wrapper"></div></div></div><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner"><div class="wpb_wrapper"></div></div></div><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"></div></div></div></div>
+                                                            </div>
+                            <!-- .entry-content -->
+                        </article><!-- #post-## -->
+                                    </div>
+            </div>
+                    </div>
+    </div>
+</div> <!-- #content -->
+    <footer class="site-footer">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4">
+                    <aside id="text-3" class="widget widget_text">			<div class="textwidget"><aside id="text-3" class="widget widget_text">
+<div class="textwidget"><img style="height: 50px; width: auto;" src="https://www.cajapaita.pe/wp-content/uploads/2023/04/logo_caja_paita_enblanco24042023.png" /></div>
+</aside>
+</div>
+		</aside>                </div>
+                <div class="col-md-4">
+                    <aside id="text-4" class="widget widget_text">			<div class="textwidget"><aside id="text-13" class="widget widget_text">
+<div class="textwidget">
+<p><i class="fas fa-map-marker-alt"></i> Jr. PLaza de Armas 176 &#8211; 178 Paita</p>
+<p><i class="fa fa-phone"></i>(073) 258780</p>
+</div>
+</aside>
+</div>
+		</aside>                </div>
+                <div class="col-md-4">
+                                        <div class="social">
+                                            </div>
+                </div>
+            </div>
+        </div>
+    </footer><!-- .site-footer -->
+    <div class="copyright">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6 align-left copyright-left">
+                    ©Caja Paita 2022 - Todos los Derechos Reservados                </div>
+                <div class="col-md-6 align-right copyright-right">
+                    <a href="https://mail.cajapaita.pe/owa" target="_blank">Correo Web CMAC Paita</a>                </div>
+            </div>
+        </div>
+    </div><!-- .copyright -->
+</div><!-- #page -->
+<div class="popup-search">
+    <div class="inner">
+        <div class="content">
+            <div class="box">
+                <span class="popup-search-close"><i class="fa fa-times"></i></span>
+                <form role="search" method="get" class="search-form" action="https://www.cajapaita.pe/">
+				<label>
+					<span class="screen-reader-text">Buscar:</span>
+					<input type="search" class="search-field" placeholder="Buscar &hellip;" value="" name="s" />
+				</label>
+				<input type="submit" class="search-submit" value="Buscar" />
+			</form>                * Type a keyword then press Enter            </div>
+        </div>
+    </div>
+</div>
+<div class="popup-menu"></div>
+<div class="popup-menu-inner">
+    <div class="mobile-menu"><ul id="mobile-menu" class="menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1927"><a href="#"><span data-hover="Nosotros">Nosotros</span></a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2045"><a href="https://www.cajapaita.pe/quienes-somos/"><span data-hover="Quiénes Somos">Quiénes Somos</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1963"><a href="https://www.cajapaita.pe/nuestra-historia/"><span data-hover="Nuestra Historia">Nuestra Historia</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2018"><a href="https://www.cajapaita.pe/mision-y-vision/"><span data-hover="Misión y Visión">Misión y Visión</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2602"><a href="https://www.cajapaita.pe/valores-corporativos/"><span data-hover="Nuestro Valores">Nuestro Valores</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7282"><a href="https://www.cajapaita.pe/objetivos-estrategicos/"><span data-hover="Objetivos Estratégicos">Objetivos Estratégicos</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3927"><a href="https://www.cajapaita.pe/directorio/"><span data-hover="Nuestro Directorio">Nuestro Directorio</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3932"><a href="https://www.cajapaita.pe/gerencia-mancomunada/"><span data-hover="Gerencia Mancomunada">Gerencia Mancomunada</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3958"><a href="https://www.cajapaita.pe/recursos-humanos/"><span data-hover="Recursos Humanos">Recursos Humanos</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4118"><a href="https://www.cajapaita.pe/convocatorias-de-personal/"><span data-hover="Trabaja con nosotros">Trabaja con nosotros</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7656"><a href="https://www.cajapaita.pe/protocolos-covid19/"><span data-hover="Protocolos COVID19">Protocolos COVID19</span></a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1928"><a href="#"><span data-hover="Productos y Servicios">Productos y Servicios</span></a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-3275"><a href="https://www.cajapaita.pe/creditos/"><span data-hover="Créditos">Créditos</span></a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2895"><a href="#"><span data-hover="Empresarial">Empresarial</span></a>
+		<ul class="sub-menu">
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5994"><a href="https://www.cajapaita.pe/creditos/credito-preaprobado/"><span data-hover="Pre Aprobado">Pre Aprobado</span></a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2892"><a href="https://www.cajapaita.pe/creditos/credito-rapidito/"><span data-hover="Rapidito">Rapidito</span></a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2908"><a href="https://www.cajapaita.pe/creditos/full-chamba/"><span data-hover="Full Chamba">Full Chamba</span></a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5995"><a href="https://www.cajapaita.pe/creditos/credito-agropecuario/"><span data-hover="Agropecuario">Agropecuario</span></a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5996"><a href="https://www.cajapaita.pe/creditos/credito-empresarial/"><span data-hover="Empresarial">Empresarial</span></a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5997"><a href="https://www.cajapaita.pe/creditos/credito-pesca/"><span data-hover="Pesca">Pesca</span></a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2893"><a href="https://www.cajapaita.pe/creditos/credito-crece-mujer/"><span data-hover="Crece Mujer">Crece Mujer</span></a></li>
+		</ul>
+</li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2896"><a href="#"><span data-hover="Consumo">Consumo</span></a>
+		<ul class="sub-menu">
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2902"><a href="https://www.cajapaita.pe/creditos/credito-libre-disponibilidad/"><span data-hover="Libre Disponibilidad">Libre Disponibilidad</span></a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2903"><a href="https://www.cajapaita.pe/creditos/credito-descuento-por-planilla/"><span data-hover="Descuento por Planilla">Descuento por Planilla</span></a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2904"><a href="https://www.cajapaita.pe/creditos/crediplazos/"><span data-hover="Crediplazo">Crediplazo</span></a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2905"><a href="https://www.cajapaita.pe/creditos/credito-joya-plus/"><span data-hover="Joya Plus">Joya Plus</span></a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5999"><a href="https://www.cajapaita.pe/creditos/credito-full-chmba/"><span data-hover="Full Chamba">Full Chamba</span></a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6000"><a href="https://www.cajapaita.pe/creditos/credito-pre-aprobado/"><span data-hover="Pre Aprobado">Pre Aprobado</span></a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10207"><a href="https://www.cajapaita.pe/creditos/credito-saneahogar/"><span data-hover="Saneahogar">Saneahogar</span></a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10210"><a href="https://www.cajapaita.pe/creditos/credito-administrativo/"><span data-hover="Administrativo">Administrativo</span></a></li>
+		</ul>
+</li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-3814"><a href="https://www.cajapaita.pe/ahorros/"><span data-hover="Ahorros">Ahorros</span></a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2879"><a href="#"><span data-hover="Ahorros">Ahorros</span></a>
+		<ul class="sub-menu">
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2880"><a href="https://www.cajapaita.pe/ahorros/ahorro-corriente/"><span data-hover="Ahorro">Ahorro</span></a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3815"><a href="https://www.cajapaita.pe/ahorros/ordenes-de-pago/"><span data-hover="Ordenes de Pago">Ordenes de Pago</span></a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5453"><a href="https://www.cajapaita.pe/ahorros/cuenta-sueldo/"><span data-hover="Cuenta Sueldo">Cuenta Sueldo</span></a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5452"><a href="https://www.cajapaita.pe/ahorros/plus-ahorro/"><span data-hover="Plus Ahorro">Plus Ahorro</span></a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9936"><a href="https://www.cajapaita.pe/ahorros/peke-ahorro/"><span data-hover="Peke Ahorro">Peke Ahorro</span></a></li>
+		</ul>
+</li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2884"><a href="#"><span data-hover="Depósitos a Plazo Fijo">Depósitos a Plazo Fijo</span></a>
+		<ul class="sub-menu">
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3214"><a href="https://www.cajapaita.pe/ahorros/plazo-fijo/"><span data-hover="Plazo Fijo">Plazo Fijo</span></a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3213"><a href="https://www.cajapaita.pe/ahorros/mass-ahorro/"><span data-hover="Mass Ahorro">Mass Ahorro</span></a></li>
+		</ul>
+</li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2887"><a href="#"><span data-hover="CTS">CTS</span></a>
+		<ul class="sub-menu">
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2888"><a href="https://www.cajapaita.pe/ahorros/cts-normal/"><span data-hover="Cts Normal">Cts Normal</span></a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2889"><a href="https://www.cajapaita.pe/ahorros/cts-pesquero/"><span data-hover="Cts Pesquero">Cts Pesquero</span></a></li>
+		</ul>
+</li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-5777"><a href="https://www.cajapaita.pe/seguros/"><span data-hover="Seguros">Seguros</span></a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5760"><a href="https://www.cajapaita.pe/seguros/seguro-soat/"><span data-hover="Seguro SOAT">Seguro SOAT</span></a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5761"><a href="https://www.cajapaita.pe/seguros/seguro-multiriesgo-asociado-al-desembolso-credito/"><span data-hover="Seguro Multiriesgo">Seguro Multiriesgo</span></a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5762"><a href="https://www.cajapaita.pe/seguros/seguro-sepelio-asociado-al-desembolso-credito/"><span data-hover="Seguro de Sepelio">Seguro de Sepelio</span></a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6368"><a href="https://www.cajapaita.pe/seguros/seguro-de-desgravamen/"><span data-hover="Seguro de Desgravamen">Seguro de Desgravamen</span></a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7756"><a href="https://www.cajapaita.pe/seguro-accidentes-personales/"><span data-hover="Seguro de Accidentes Personales">Seguro de Accidentes Personales</span></a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7758"><a href="https://www.cajapaita.pe/seguro-indemnizacion-diagnostico-cancer/"><span data-hover="Seg. Indemnización Cáncer">Seg. Indemnización Cáncer</span></a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8720"><a href="https://www.cajapaita.pe/seguro-desgravamen-con-devolucion/"><span data-hover="Seg. Desgravamen Devolución">Seg. Desgravamen Devolución</span></a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-4771"><a href="https://www.cajapaita.pe/servicios/"><span data-hover="Servicios">Servicios</span></a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5763"><a href="https://www.cajapaita.pe/servicios/compra-venta-moneda-extranjera/"><span data-hover="Compra y Venta de Moneda Extranjera">Compra y Venta de Moneda Extranjera</span></a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6269"><a href="https://www.cajapaita.pe/servicios/recaudo-de-instituciones-educativas/"><span data-hover="Recaudo de Instituciones Educativas">Recaudo de Instituciones Educativas</span></a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6268"><a href="https://www.cajapaita.pe/servicios/recaudacion-de-television-por-cable/"><span data-hover="Recaudación de Televisión por cable">Recaudación de Televisión por cable</span></a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6543"><a href="https://www.cajapaita.pe/servicios/servicios-giros-nacionales/"><span data-hover="Servicios Giros Nacionales">Servicios Giros Nacionales</span></a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6675"><a href="https://www.cajapaita.pe/servicios/servicios-western-union/"><span data-hover="Servicios Western Unión">Servicios Western Unión</span></a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7370"><a href="https://www.cajapaita.pe/servicios/agente-corresponsal-banco-la-nacion/"><span data-hover="Agente Corresponsal BN">Agente Corresponsal BN</span></a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1929"><a href="#"><span data-hover="Agencias">Agencias</span></a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3097"><a href="https://www.cajapaita.pe/agencias/"><span data-hover="Agencias">Agencias</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8932"><a href="https://www.cajapaita.pe/oficinas-eob/"><span data-hover="Oficinas EOB">Oficinas EOB</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3129"><a href="https://www.cajapaita.pe/agencias-informativas/"><span data-hover="Oficinas informativas">Oficinas informativas</span></a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3130"><a href="https://www.cajapaita.pe/transparencia/"><span data-hover="Transparencia">Transparencia</span></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2179"><a href="#"><span data-hover="Simuladores">Simuladores</span></a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8967"><a target="_blank" href="https://www.cajapaita.pe/simuladores/#/pages/ahorros"><span data-hover="Simulador Deposito Plazo Fijo">Simulador Deposito Plazo Fijo</span></a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8968"><a target="_blank" href="https://www.cajapaita.pe/simuladores/#/pages/pignoraticio"><span data-hover="Simulador de Crédito Joya Plus">Simulador de Crédito Joya Plus</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3149"><a href="https://www.cajapaita.pe/simulador-de-credito/"><span data-hover="Simulador de Credito">Simulador de Credito</span></a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7172"><a href="https://www.cajapaita.pe/formulario_creditos/"><span data-hover="¡SOLICITA TU CREDITO!">¡SOLICITA TU CREDITO!</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8444"><a href="https://www.cajapaita.pe/venta-de-inmuebles/"><span data-hover="Venta de Inmuebles">Venta de Inmuebles</span></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-11381"><a href="#"><span data-hover="Sostenibilidad">Sostenibilidad</span></a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11382"><a href="https://www.cajapaita.pe/noticias"><span data-hover="Noticias">Noticias</span></a></li>
+</ul>
+</li>
+</ul></div></div>
+    <a class="scrollup primary_bgcolor"><i class="fa fa-angle-up"></i></a>
+
+		<script>
+			window.RS_MODULES = window.RS_MODULES || {};
+			window.RS_MODULES.modules = window.RS_MODULES.modules || {};
+			window.RS_MODULES.waiting = window.RS_MODULES.waiting || [];
+			window.RS_MODULES.defered = false;
+			window.RS_MODULES.moduleWaiting = window.RS_MODULES.moduleWaiting || {};
+			window.RS_MODULES.type = 'compiled';
+		</script>
+				<script>
+			var ajaxRevslider;
+			function rsCustomAjaxContentLoadingFunction() {
+				// CUSTOM AJAX CONTENT LOADING FUNCTION
+				ajaxRevslider = function(obj) {
+				
+					// obj.type : Post Type
+					// obj.id : ID of Content to Load
+					// obj.aspectratio : The Aspect Ratio of the Container / Media
+					// obj.selector : The Container Selector where the Content of Ajax will be injected. It is done via the Essential Grid on Return of Content
+					
+					var content	= '';
+					var data	= {
+						action:			'revslider_ajax_call_front',
+						client_action:	'get_slider_html',
+						token:			'5622475c05',
+						type:			obj.type,
+						id:				obj.id,
+						aspectratio:	obj.aspectratio
+					};
+					
+					// SYNC AJAX REQUEST
+					jQuery.ajax({
+						type:		'post',
+						url:		'https://www.cajapaita.pe/wp-admin/admin-ajax.php',
+						dataType:	'json',
+						data:		data,
+						async:		false,
+						success:	function(ret, textStatus, XMLHttpRequest) {
+							if(ret.success == true)
+								content = ret.data;								
+						},
+						error:		function(e) {
+							console.log(e);
+						}
+					});
+					
+					 // FIRST RETURN THE CONTENT WHEN IT IS LOADED !!
+					 return content;						 
+				};
+				
+				// CUSTOM AJAX FUNCTION TO REMOVE THE SLIDER
+				var ajaxRemoveRevslider = function(obj) {
+					return jQuery(obj.selector + ' .rev_slider').revkill();
+				};
+
+
+				// EXTEND THE AJAX CONTENT LOADING TYPES WITH TYPE AND FUNCTION				
+				if (jQuery.fn.tpessential !== undefined) 					
+					if(typeof(jQuery.fn.tpessential.defaults) !== 'undefined') 
+						jQuery.fn.tpessential.defaults.ajaxTypes.push({type: 'revslider', func: ajaxRevslider, killfunc: ajaxRemoveRevslider, openAnimationSpeed: 0.3});   
+						// type:  Name of the Post to load via Ajax into the Essential Grid Ajax Container
+						// func: the Function Name which is Called once the Item with the Post Type has been clicked
+						// killfunc: function to kill in case the Ajax Window going to be removed (before Remove function !
+						// openAnimationSpeed: how quick the Ajax Content window should be animated (default is 0.3)					
+			}
+			
+			var rsCustomAjaxContent_Once = false
+			if (document.readyState === "loading") 
+				document.addEventListener('readystatechange',function(){
+					if ((document.readyState === "interactive" || document.readyState === "complete") && !rsCustomAjaxContent_Once) {
+						rsCustomAjaxContent_Once = true;
+						rsCustomAjaxContentLoadingFunction();
+					}
+				});
+			else {
+				rsCustomAjaxContent_Once = true;
+				rsCustomAjaxContentLoadingFunction();
+			}					
+		</script>
+		                            <script>
+                jQuery( document ).ready( function( $ ) {
+                    $( '.main-navigation' ).headroom(
+                        {
+                            offset: 160
+                        }
+                    );
+                } );
+            </script>
+                        <script>
+            jQuery( document ).ready( function( $ ) {
+                var $window = $( window );
+                // Scroll up
+                var $scrollup = $( '.scrollup' );
+
+                $window.scroll( function() {
+                    if ( $window.scrollTop() > 100 ) {
+                        $scrollup.addClass( 'show' );
+                    } else {
+                        $scrollup.removeClass( 'show' );
+                    }
+                } );
+
+                $scrollup.on( 'click', function( evt ) {
+                    $( 'html, body' ).animate( {scrollTop: 0}, 600 );
+                    evt.preventDefault();
+                } );
+            } );
+        </script>
+    <script type="text/html" id="wpb-modifications"></script><link href="https://fonts.googleapis.com/css?family=Roboto:400%2C500&display=swap" rel="stylesheet" property="stylesheet" media="all" type="text/css" >
+
+<script>
+		if(typeof revslider_showDoubleJqueryError === "undefined") {function revslider_showDoubleJqueryError(sliderID) {console.log("You have some jquery.js library include that comes after the Slider Revolution files js inclusion.");console.log("To fix this, you can:");console.log("1. Set 'Module General Options' -> 'Advanced' -> 'jQuery & OutPut Filters' -> 'Put JS to Body' to on");console.log("2. Find the double jQuery.js inclusion and remove it");return "Double Included jQuery Library";}}
+</script>
+<link rel='stylesheet' id='vc_google_fonts_montserratregular700-css'  href='https://fonts.googleapis.com/css?family=Montserrat%3Aregular%2C700&#038;ver=6.9.0' type='text/css' media='all' />
+<link rel='stylesheet' id='vc_animate-css-css'  href='https://www.cajapaita.pe/wp-content/plugins/js_composer/assets/lib/bower/animate-css/animate.min.css?ver=6.9.0' type='text/css' media='all' />
+<link rel='stylesheet' id='rs-plugin-settings-css'  href='https://www.cajapaita.pe/wp-content/plugins/revslider/public/assets/css/rs6.css?ver=6.5.21' type='text/css' media='all' />
+<style id='rs-plugin-settings-inline-css' type='text/css'>
+		#rev_slider_13_1_wrapper .metis.tparrows{background:#ffffff; padding:10px; transition:all 0.3s; -webkit-transition:all 0.3s; width:60px; height:60px; box-sizing:border-box}#rev_slider_13_1_wrapper .metis.tparrows.rs-touchhover{background:rgba(255,255,255,0.75)}#rev_slider_13_1_wrapper .metis.tparrows:before{color:#000000;   transition:all 0.3s; -webkit-transition:all 0.3s}#rev_slider_13_1_wrapper .metis.tparrows.rs-touchhover:before{transform:scale(1.5)}
+		#rev_slider_13_1_wrapper rs-loader.spinner3 div{background-color:#FFFFFF !important}
+</style>
+<script type='text/javascript' src='https://www.cajapaita.pe/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.6.4' id='swv-js'></script>
+<script type='text/javascript' id='contact-form-7-js-extra'>
+/* <![CDATA[ */
+var wpcf7 = {"api":{"root":"https:\/\/www.cajapaita.pe\/wp-json\/","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.cajapaita.pe/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.6.4' id='contact-form-7-js'></script>
+<script type='text/javascript' src='https://www.cajapaita.pe/wp-content/themes/tm-finance/assets/libs/headroom/jQuery.headroom.min.js?ver=2.7.6' id='head-room-jquery-js'></script>
+<script type='text/javascript' src='https://www.cajapaita.pe/wp-content/themes/tm-finance/assets/libs/headroom/headroom.min.js?ver=2.7.6' id='head-room-js'></script>
+<script type='text/javascript' src='https://www.cajapaita.pe/wp-content/themes/tm-finance/assets/libs/lightgallery/js/lightgallery-all.min.js?ver=2.7.6' id='lightgallery-js'></script>
+<script type='text/javascript' src='https://www.cajapaita.pe/wp-content/themes/tm-finance/assets/libs/magnific-popup/jquery.magnific-popup.min.js?ver=2.7.6' id='magnific-popup-js'></script>
+<script type='text/javascript' src='https://www.cajapaita.pe/wp-content/plugins/js_composer/assets/lib/bower/isotope/dist/isotope.pkgd.min.js?ver=6.9.0' id='isotope-js'></script>
+<script type='text/javascript' src='https://www.cajapaita.pe/wp-content/themes/tm-finance/assets/libs/waypoints/waypoints.min.js?ver=2.7.6' id='waypoints-js'></script>
+<script type='text/javascript' src='https://www.cajapaita.pe/wp-content/themes/tm-finance/assets/libs/waypoints/jquery.counterup.min.js?ver=2.7.6' id='counterup-js'></script>
+<script type='text/javascript' src='https://www.cajapaita.pe/wp-content/themes/tm-finance/assets/libs/matchheight/jquery.matchHeight.js?ver=2.7.6' id='matchheight-js'></script>
+<script type='text/javascript' src='https://www.cajapaita.pe/wp-content/themes/tm-finance/assets/libs/owl-carousel/owl.carousel.min.js?ver=2.7.6' id='owl-carousel-js'></script>
+<script type='text/javascript' src='https://www.cajapaita.pe/wp-content/themes/tm-finance/assets/libs/countdown/jquery.countdown.js?ver=2.7.6' id='countdown-js'></script>
+<script type='text/javascript' src='https://www.cajapaita.pe/wp-content/themes/tm-finance/assets/js/main.js?ver=2.7.6' id='tm-finance-js-main-js'></script>
+<script type='text/javascript' id='wpb_composer_front_js-js-extra'>
+/* <![CDATA[ */
+var vcData = {"currentTheme":{"slug":"tm-finance"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.cajapaita.pe/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js?ver=6.9.0' id='wpb_composer_front_js-js'></script>
+<script type='text/javascript' src='https://www.cajapaita.pe/wp-content/plugins/js_composer/assets/lib/vc_waypoints/vc-waypoints.min.js?ver=6.9.0' id='vc_waypoints-js'></script>
+<script id="rs-initialisation-scripts">
+		var	tpj = jQuery;
+
+		var	revapi13;
+
+		if(window.RS_MODULES === undefined) window.RS_MODULES = {};
+		if(RS_MODULES.modules === undefined) RS_MODULES.modules = {};
+		RS_MODULES.modules["revslider131"] = {once: RS_MODULES.modules["revslider131"]!==undefined ? RS_MODULES.modules["revslider131"].once : undefined, init:function() {
+			window.revapi13 = window.revapi13===undefined || window.revapi13===null || window.revapi13.length===0  ? document.getElementById("rev_slider_13_1") : window.revapi13;
+			if(window.revapi13 === null || window.revapi13 === undefined || window.revapi13.length==0) { window.revapi13initTry = window.revapi13initTry ===undefined ? 0 : window.revapi13initTry+1; if (window.revapi13initTry<20) requestAnimationFrame(function() {RS_MODULES.modules["revslider131"].init()}); return;}
+			window.revapi13 = jQuery(window.revapi13);
+			if(window.revapi13.revolution==undefined){ revslider_showDoubleJqueryError("rev_slider_13_1"); return;}
+			revapi13.revolutionInit({
+					revapi:"revapi13",
+					DPR:"dpr",
+					sliderLayout:"fullwidth",
+					visibilityLevels:"1240,1024,778,480",
+					gridwidth:"1920,1024,878,680",
+					gridheight:"400,300,250,210",
+					lazyType:"smart",
+					spinner:"spinner3",
+					perspective:600,
+					perspectiveType:"local",
+					editorheight:"400,300,250,210",
+					responsiveLevels:"1240,1024,778,480",
+					progressBar: {
+						color:"rgba(0,0,0,0.15)",
+						vertical:"top",
+						size:5,
+						x:0,
+						y:0
+						},
+					navigation: {
+						mouseScrollNavigation:false,
+						wheelCallDelay:1000,
+						onHoverStop:false,
+						arrows: {
+							enable:true,
+							style:"metis",
+							hide_onleave:true,
+							left: {
+
+							},
+							right: {
+
+							}
+						}
+					},
+					viewPort: {
+						global:true,
+						globalDist:"-200px",
+						enable:false,
+						visible_area:"20%"
+					},
+					fallbacks: {
+						allowHTML5AutoPlayOnAndroid:true
+					},
+			});
+			
+		}} // End of RevInitScript
+
+		if (window.RS_MODULES.checkMinimal!==undefined) { window.RS_MODULES.checkMinimal();};
+	</script>
+</body>
+</html>
